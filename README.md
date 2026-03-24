@@ -156,4 +156,15 @@ Open source initiative for the Chilean financial ecosystem.
 
 <br/>
 
+## &nbsp;
+
+<div align="center">
+
+*None of this would be possible without my partner in life, **Constanza Rebolledo**.*
+*Together we do the best work — in code and beyond.*
+
+&nbsp;❤️
+
+</div>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0e00,50:3d2000,100:1a0e00&height=100&section=footer" width="100%"/>
