@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Alex%20Elgueta&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Fullstack%20Engineer%20%E2%80%94%20Builder%20%E2%80%94%20CTO&descAlignY=58&descSize=16&descColor=a78bfa" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0e00,50:3d2000,100:1a0e00&height=200&section=header&text=Alex%20Elgueta&fontSize=52&fontColor=f5c078&animation=fadeIn&fontAlignY=36&desc=Fullstack%20Engineer%20%E2%80%94%20Builder%20%E2%80%94%20CTO&descAlignY=58&descSize=16&descColor=d4956a" width="100%"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=640&lines=Building+Surco+%F0%9F%8C%B1;CTO+%40+Portal+de+Especialistas;Engineer+%40+Karibu;TypeScript+%E2%80%94+Go+%E2%80%94+React+%E2%80%94+Next.js;Disrupting+from+Chile+%F0%9F%87%A8%F0%9F%87%B1)](https://github.com/kanazawa-dev)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2800&pause=900&color=D4956A&center=true&vCenter=true&width=640&lines=Building+Surco+%F0%9F%8C%B1;CTO+%40+Portal+de+Especialistas;Engineer+%40+Karibu;TypeScript+%E2%80%94+Go+%E2%80%94+React+%E2%80%94+Next.js;Los+%C3%81ngeles%2C+Chile+%F0%9F%87%A8%F0%9F%87%B1)](https://github.com/kanazawa-dev)
 
 </div>
 
@@ -11,13 +11,19 @@
 ```typescript
 const alex = {
   role:     "Fullstack Engineer & CTO",
-  location: "Santiago, Chile 🇨🇱",
-  building: ["Surco 🌱", "Portal de Especialistas 🏥"],
+  location: "Los Ángeles, Chile 🇨🇱",
+  building: ["Surco 🌱", "Portal de Especialistas 🔧"],
   working:  "Karibu",
   stack:    ["TypeScript", "Go", "React", "Next.js", "Node.js"],
-  focus:    "Turning ideas into products that actually ship",
+  motto:    "Build in silence. Let success make the noise.",
 };
 ```
+
+<br/>
+
+<div align="center">
+  <i>"Build in silence. Let success make the noise."</i>
+</div>
 
 <br/>
 
@@ -29,18 +35,18 @@ const alex = {
 
 **🌱 Surco**
 <br/>
-Building something from zero. An agriculture-tech platform redefining how the field works — smart, lean, and built to scale.
+Building from zero. An agtech platform redefining how the field operates — lean, smart, built to scale.
 
-[![surco](https://img.shields.io/badge/WIP-active-7c3aed?style=flat-square&logo=leaf&logoColor=white)]()
+[![surco](https://img.shields.io/badge/WIP-active-d4622a?style=flat-square&logoColor=white)]()
 
 </td>
 <td width="50%" valign="top">
 
-**🏥 Portal de Especialistas**
+**🔧 Portal de Especialistas**
 <br/>
-CTO leading product & engineering. Connecting patients with medical specialists — fast, reliable, human.
+CTO leading product & engineering. Connecting homeowners with repair specialists — fast, reliable, no friction.
 
-[![portal](https://img.shields.io/badge/CTO-live-06b6d4?style=flat-square&logo=stethoscope&logoColor=white)]()
+[![portal](https://img.shields.io/badge/CTO-live-c4962a?style=flat-square&logoColor=white)]()
 
 </td>
 </tr>
@@ -49,9 +55,9 @@ CTO leading product & engineering. Connecting patients with medical specialists 
 
 **⚡ Karibu**
 <br/>
-Fullstack Engineer building internal tools and products that move fast and don't break things (usually).
+Fullstack Engineer building products that move fast and actually ship.
 
-[![karibu](https://img.shields.io/badge/Engineer-active-a78bfa?style=flat-square&logo=zap&logoColor=white)]()
+[![karibu](https://img.shields.io/badge/Engineer-active-d4956a?style=flat-square&logoColor=white)]()
 
 </td>
 <td width="50%" valign="top">
@@ -60,7 +66,7 @@ Fullstack Engineer building internal tools and products that move fast and don't
 <br/>
 Open source initiative for the Chilean financial ecosystem. Standards, SDKs, and tooling.
 
-[![open-banking](https://img.shields.io/badge/open%20source-public-10b981?style=flat-square&logo=github&logoColor=white)](https://github.com/kanazawa-dev/open-banking-chile)
+[![open-banking](https://img.shields.io/badge/open%20source-public-b8855a?style=flat-square&logo=github&logoColor=white)](https://github.com/kanazawa-dev/open-banking-chile)
 
 </td>
 </tr>
@@ -72,16 +78,16 @@ Open source initiative for the Chilean financial ecosystem. Standards, SDKs, and
 
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-0f0c29?style=for-the-badge&logo=typescript&logoColor=3b82f6)
-![Go](https://img.shields.io/badge/Go-0f0c29?style=for-the-badge&logo=go&logoColor=00acd7)
-![React](https://img.shields.io/badge/React-0f0c29?style=for-the-badge&logo=react&logoColor=61dafb)
-![Next.js](https://img.shields.io/badge/Next.js-0f0c29?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-0f0c29?style=for-the-badge&logo=nodedotjs&logoColor=6da55f)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f0c29?style=for-the-badge&logo=postgresql&logoColor=336791)
-![Redis](https://img.shields.io/badge/Redis-0f0c29?style=for-the-badge&logo=redis&logoColor=dc382d)
-![Docker](https://img.shields.io/badge/Docker-0f0c29?style=for-the-badge&logo=docker&logoColor=2496ed)
-![AWS](https://img.shields.io/badge/AWS-0f0c29?style=for-the-badge&logo=amazonwebservices&logoColor=ff9900)
-![Tailwind](https://img.shields.io/badge/Tailwind-0f0c29?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8)
+![TypeScript](https://img.shields.io/badge/TypeScript-1a0e00?style=for-the-badge&logo=typescript&logoColor=d4956a)
+![Go](https://img.shields.io/badge/Go-1a0e00?style=for-the-badge&logo=go&logoColor=f5c078)
+![React](https://img.shields.io/badge/React-1a0e00?style=for-the-badge&logo=react&logoColor=d4622a)
+![Next.js](https://img.shields.io/badge/Next.js-1a0e00?style=for-the-badge&logo=nextdotjs&logoColor=f5c078)
+![Node.js](https://img.shields.io/badge/Node.js-1a0e00?style=for-the-badge&logo=nodedotjs&logoColor=d4956a)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a0e00?style=for-the-badge&logo=postgresql&logoColor=c4962a)
+![Redis](https://img.shields.io/badge/Redis-1a0e00?style=for-the-badge&logo=redis&logoColor=d4622a)
+![Docker](https://img.shields.io/badge/Docker-1a0e00?style=for-the-badge&logo=docker&logoColor=f5c078)
+![AWS](https://img.shields.io/badge/AWS-1a0e00?style=for-the-badge&logo=amazonwebservices&logoColor=d4956a)
+![Tailwind](https://img.shields.io/badge/Tailwind-1a0e00?style=for-the-badge&logo=tailwindcss&logoColor=c4962a)
 
 </div>
 
@@ -91,15 +97,15 @@ Open source initiative for the Chilean financial ecosystem. Standards, SDKs, and
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=kanazawa-dev&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0&rank_icon=github" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=kanazawa-dev&show_icons=true&hide_border=true&bg_color=1a0e00&title_color=f5c078&icon_color=d4622a&text_color=d4956a&rank_icon=github" />
 &nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanazawa-dev&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=e2e8f0&langs_count=6" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanazawa-dev&layout=compact&hide_border=true&bg_color=1a0e00&title_color=f5c078&text_color=d4956a&langs_count=6" />
 
 </div>
 
 <div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=kanazawa-dev&theme=midnight-purple&hide_border=true&background=0f0c29&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=e2e8f0&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=64748b" />
+<img width="70%" src="https://streak-stats.demolab.com?user=kanazawa-dev&hide_border=true&background=1a0e00&ring=d4622a&fire=f5c078&currStreakLabel=f5c078&sideLabels=d4956a&currStreakNum=f5c078&sideNums=d4956a&dates=b8855a" />
 
 </div>
 
@@ -109,12 +115,12 @@ Open source initiative for the Chilean financial ecosystem. Standards, SDKs, and
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/alexelgueta.me-0f0c29?style=for-the-badge&logo=safari&logoColor=a78bfa)](https://www.alexelgueta.me/)
-[![Twitter](https://img.shields.io/badge/@AlexElguetaDev-0f0c29?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/AlexElguetaDev)
-[![GitHub](https://img.shields.io/badge/kanazawa--dev-0f0c29?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kanazawa-dev)
+[![Website](https://img.shields.io/badge/alexelgueta.me-1a0e00?style=for-the-badge&logo=safari&logoColor=f5c078)](https://www.alexelgueta.me/)
+[![Twitter](https://img.shields.io/badge/@AlexElguetaDev-1a0e00?style=for-the-badge&logo=x&logoColor=d4956a)](https://twitter.com/AlexElguetaDev)
+[![GitHub](https://img.shields.io/badge/kanazawa--dev-1a0e00?style=for-the-badge&logo=github&logoColor=f5c078)](https://github.com/kanazawa-dev)
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0e00,50:3d2000,100:1a0e00&height=100&section=footer" width="100%"/>
