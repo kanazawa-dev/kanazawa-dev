@@ -96,43 +96,11 @@ Open source initiative for the Chilean financial ecosystem. Standards, SDKs, and
 
 <br/>
 
-## &nbsp;Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=kanazawa-dev&show_icons=true&hide_border=true&bg_color=1a0e00&title_color=f5c078&icon_color=d4622a&text_color=d4956a&rank_icon=github" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanazawa-dev&layout=compact&hide_border=true&bg_color=1a0e00&title_color=f5c078&text_color=d4956a&langs_count=6" />
-
-</div>
-
-<div align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=kanazawa-dev&hide_border=true&background=1a0e00&ring=d4622a&fire=f5c078&currStreakLabel=f5c078&sideLabels=d4956a&currStreakNum=f5c078&sideNums=d4956a&dates=b8855a" />
-
-</div>
-
-<br/>
-
 ## &nbsp;Activity
 
 <div align="center">
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=kanazawa-dev&bg_color=1a0e00&color=d4956a&line=d4622a&point=f5c078&area=true&area_color=3d2000&hide_border=true&custom_title=Contribution%20Graph" />
-
-</div>
-
-<br/>
-
-## &nbsp;Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kanazawa-dev/kanazawa-dev/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kanazawa-dev/kanazawa-dev/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/kanazawa-dev/kanazawa-dev/output/github-contribution-grid-snake-dark.svg" />
-</picture>
 
 </div>
 
