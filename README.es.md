@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=transparent&height=130&text=Alex%20Elgueta&fontSize=68&fontColor=f5c078&fontAlignY=45&desc=Fullstack%20Engineer%20%C2%B7%20Builder%20%C2%B7%20CTO&descSize=18&descColor=d4956a&descAlignY=72" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=transparent&height=130&text=Alex%20Elgueta&fontSize=68&fontColor=3d2000&fontAlignY=45&desc=Fullstack%20Engineer%20%C2%B7%20Builder%20%C2%B7%20CTO&descSize=18&descColor=d4622a&descAlignY=72" />
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=130&text=Alex%20Elgueta&fontSize=68&fontColor=f5c078&fontAlignY=45&desc=Fullstack%20Engineer%20%C2%B7%20Builder%20%C2%B7%20CTO&descSize=18&descColor=d4956a&descAlignY=72" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=transparent&height=130&text=Alex%20Elgueta&fontSize=68&fontColor=f5c078&fontAlignY=45&desc=Fullstack%20Engineer%20%C2%B7%20Builder%20%C2%B7%20CTO&descSize=18&descColor=d4956a&descAlignY=82" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=transparent&height=130&text=Alex%20Elgueta&fontSize=68&fontColor=3d2000&fontAlignY=45&desc=Fullstack%20Engineer%20%C2%B7%20Builder%20%C2%B7%20CTO&descSize=18&descColor=d4622a&descAlignY=82" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=130&text=Alex%20Elgueta&fontSize=68&fontColor=f5c078&fontAlignY=45&desc=Fullstack%20Engineer%20%C2%B7%20Builder%20%C2%B7%20CTO&descSize=18&descColor=d4956a&descAlignY=82" />
 </picture>
 
 </div>
