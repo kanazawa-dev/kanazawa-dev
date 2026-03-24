@@ -42,6 +42,7 @@ const alex = {
 - 💪 Volví al gym. Resulta que hacer deploy de código y levantar pesas tienen mucho en común: la constancia le gana a la intensidad.
 - 👧👧 Papá de dos niñas que ya han hecho más deploy de caos que cualquier bug en producción que haya visto.
 - 🌍 Construyendo cosas para que el futuro sea un poco mejor para todos. Al menos ese es el plan — las niñas todavía no aprobaron el roadmap.
+- ❤️ Haciendo todo esto junto a **Constanza Rebolledo** — ella no escribe código, hace algo más difícil: hace que todo lo demás funcione.
 
 <br/>
 

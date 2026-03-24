@@ -42,6 +42,7 @@ const alex = {
 - 💪 Back at the gym. Turns out shipping code and lifting weights have a lot in common: consistency beats intensity.
 - 👧👧 Dad of two little girls who have already deployed more chaos than any production bug I've ever seen.
 - 🌍 Building things to make the future a little better for everyone. At least that's the plan — the girls haven't approved the roadmap yet.
+- ❤️ Doing all of this next to **Constanza Rebolledo** — she doesn't write code, she does something harder: she makes everything else work.
 
 <br/>
 
