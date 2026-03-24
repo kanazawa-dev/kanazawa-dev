@@ -34,25 +34,33 @@ const alex = {
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
-**🌱 Surco**
-<br/>
-Building from zero. An agtech platform redefining how the field operates — lean, smart, built to scale.
+### 🌱 Surco
+Building from zero. An agtech platform rethinking how the agricultural field operates in Latin America — lean, smart, and built to scale. Every decision made here is long-term.
 
-[![surco](https://img.shields.io/badge/WIP-active-d4622a?style=flat-square&logoColor=white)]()
-
-</td>
-<td width="50%" valign="top">
-
-**🔧 Portal de Especialistas**
-<br/>
-CTO leading product & engineering. Connecting homeowners with repair specialists — fast, reliable, no friction.
-
-[![portal](https://img.shields.io/badge/CTO-live-c4962a?style=flat-square&logoColor=white)]()
+[![surco](https://img.shields.io/badge/Founder-building-d4622a?style=flat-square&logoColor=white)]()
+[![status](https://img.shields.io/badge/status-active-f5c078?style=flat-square&logoColor=white)]()
 
 </td>
 </tr>
+</table>
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
+### 🔧 Portal de Especialistas
+CTO — leading product, engineering, and architecture. A marketplace connecting homeowners with home repair specialists. Fast, reliable, zero friction. Scaling.
+
+[![portal](https://img.shields.io/badge/CTO-live-c4962a?style=flat-square&logoColor=white)]()
+[![stack](https://img.shields.io/badge/Next.js%20%2B%20TypeScript-1a0e00?style=flat-square&logoColor=d4956a)]()
+
+</td>
+</tr>
+</table>
+
+<table>
 <tr>
 <td width="50%" valign="top">
 
@@ -67,7 +75,7 @@ Fullstack Engineer building products that move fast and actually ship.
 
 **🏦 Open Banking Chile**
 <br/>
-Open source initiative for the Chilean financial ecosystem. Standards, SDKs, and tooling.
+Open source initiative for the Chilean financial ecosystem.
 
 [![open-banking](https://img.shields.io/badge/open%20source-public-b8855a?style=flat-square&logo=github&logoColor=white)](https://github.com/kanazawa-dev/open-banking-chile)
 
