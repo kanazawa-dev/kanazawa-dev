@@ -1,8 +1,9 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:1a0e00,50:3d2000,100:1a0e00&height=200&section=header&text=Alex%20Elgueta&fontSize=52&fontColor=f5c078&animation=fadeIn&fontAlignY=36&desc=Fullstack%20Engineer%20%E2%80%94%20Builder%20%E2%80%94%20CTO&descAlignY=58&descSize=16&descColor=d4956a" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:fdf6ee,50:fce8d0,100:fdf6ee&height=200&section=header&text=Alex%20Elgueta&fontSize=52&fontColor=3d2000&animation=fadeIn&fontAlignY=36&desc=Fullstack%20Engineer%20%E2%80%94%20Builder%20%E2%80%94%20CTO&descAlignY=58&descSize=16&descColor=d4622a" />
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:1a0e00,50:3d2000,100:1a0e00&height=200&section=header&text=Alex%20Elgueta&fontSize=52&fontColor=f5c078&animation=fadeIn&fontAlignY=36&desc=Fullstack%20Engineer%20%E2%80%94%20Builder%20%E2%80%94%20CTO&descAlignY=58&descSize=16&descColor=d4956a" />
-</picture>
+<div align="center">
+
+# Alex Elgueta
+### Fullstack Engineer — Builder — CTO
+
+</div>
 
 <div align="center">
 
@@ -181,8 +182,3 @@ Iniciativa open source para el ecosistema financiero chileno.
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:1a0e00,50:3d2000,100:1a0e00&height=100&section=footer" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:fdf6ee,50:fce8d0,100:fdf6ee&height=100&section=footer" />
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:1a0e00,50:3d2000,100:1a0e00&height=100&section=footer" />
-</picture>
