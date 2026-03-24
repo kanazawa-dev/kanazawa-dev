@@ -1,8 +1,7 @@
 <div align="center">
 
-${\color[RGB]{245,192,120}\Huge\textbf{Alex\ Elgueta}}$
-
-${\color[RGB]{212,149,106}\text{Fullstack\ Engineer\ —\ Builder\ —\ CTO}}$
+# Alex Elgueta
+#### Fullstack Engineer &nbsp;·&nbsp; Builder &nbsp;·&nbsp; CTO
 
 </div>
 
