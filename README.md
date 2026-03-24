@@ -4,6 +4,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2800&pause=900&color=D4956A&center=true&vCenter=true&width=640&lines=Building+Surco+%F0%9F%8C%B1;CTO+%40+Portal+de+Especialistas;Engineer+%40+Karibu;TypeScript+%E2%80%94+Go+%E2%80%94+React+%E2%80%94+Next.js;Los+%C3%81ngeles%2C+Chile+%F0%9F%87%A8%F0%9F%87%B1)](https://github.com/kanazawa-dev)
 
+&nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=kanazawa-dev&style=flat-square&color=d4622a&label=profile+views)
+
 </div>
 
 <br/>
@@ -106,6 +109,30 @@ Open source initiative for the Chilean financial ecosystem. Standards, SDKs, and
 <div align="center">
 
 <img width="70%" src="https://streak-stats.demolab.com?user=kanazawa-dev&hide_border=true&background=1a0e00&ring=d4622a&fire=f5c078&currStreakLabel=f5c078&sideLabels=d4956a&currStreakNum=f5c078&sideNums=d4956a&dates=b8855a" />
+
+</div>
+
+<br/>
+
+## &nbsp;Activity
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=kanazawa-dev&bg_color=1a0e00&color=d4956a&line=d4622a&point=f5c078&area=true&area_color=3d2000&hide_border=true&custom_title=Contribution%20Graph" />
+
+</div>
+
+<br/>
+
+## &nbsp;Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kanazawa-dev/kanazawa-dev/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kanazawa-dev/kanazawa-dev/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/kanazawa-dev/kanazawa-dev/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
 
