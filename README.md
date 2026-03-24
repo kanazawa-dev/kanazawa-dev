@@ -80,9 +80,10 @@ CTO — leading product, engineering, and architecture. A marketplace connecting
 
 **⚡ Karibu**
 <br/>
-Fullstack Engineer building products that move fast and actually ship.
+Fullstack Engineer — building internal tools and client-facing products. Focused on clean architecture, scalable frontends, and making sure things don't break at 2am.
 
-[![karibu](https://img.shields.io/badge/Engineer-active-d4956a?style=flat-square&logoColor=white)]()
+[![karibu](https://img.shields.io/badge/Fullstack-active-d4956a?style=flat-square&logoColor=white)]()
+[![stack](https://img.shields.io/badge/React%20%2B%20Node.js%20%2B%20TypeScript-1a0e00?style=flat-square&logoColor=d4956a)]()
 
 </td>
 <td width="50%" valign="top">
