@@ -1,4 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a0e00,50:3d2000,100:1a0e00&height=200&section=header&text=Alex%20Elgueta&fontSize=52&fontColor=f5c078&animation=fadeIn&fontAlignY=36&desc=Fullstack%20Engineer%20%E2%80%94%20Builder%20%E2%80%94%20CTO&descAlignY=58&descSize=16&descColor=d4956a" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:1a0e00,50:3d2000,100:1a0e00&height=200&section=header&text=Alex%20Elgueta&fontSize=52&fontColor=f5c078&animation=fadeIn&fontAlignY=36&desc=Fullstack%20Engineer%20%E2%80%94%20Builder%20%E2%80%94%20CTO&descAlignY=58&descSize=16&descColor=d4956a" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:fdf6ee,50:fce8d0,100:fdf6ee&height=200&section=header&text=Alex%20Elgueta&fontSize=52&fontColor=3d2000&animation=fadeIn&fontAlignY=36&desc=Fullstack%20Engineer%20%E2%80%94%20Builder%20%E2%80%94%20CTO&descAlignY=58&descSize=16&descColor=d4622a" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:1a0e00,50:3d2000,100:1a0e00&height=200&section=header&text=Alex%20Elgueta&fontSize=52&fontColor=f5c078&animation=fadeIn&fontAlignY=36&desc=Fullstack%20Engineer%20%E2%80%94%20Builder%20%E2%80%94%20CTO&descAlignY=58&descSize=16&descColor=d4956a" />
+</picture>
 
 <div align="center">
 
@@ -141,7 +145,11 @@ Open source initiative for the Chilean financial ecosystem.
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=kanazawa-dev&bg_color=1a0e00&color=d4956a&line=d4622a&point=f5c078&area=true&area_color=3d2000&hide_border=true&custom_title=Contribution%20Graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=kanazawa-dev&bg_color=1a0e00&color=d4956a&line=d4622a&point=f5c078&area=true&area_color=3d2000&hide_border=true&custom_title=Contribution%20Graph" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=kanazawa-dev&bg_color=fdf6ee&color=3d2000&line=d4622a&point=c4962a&area=true&area_color=fce8d0&hide_border=true&custom_title=Contribution%20Graph" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=kanazawa-dev&bg_color=1a0e00&color=d4956a&line=d4622a&point=f5c078&area=true&area_color=3d2000&hide_border=true&custom_title=Contribution%20Graph" />
+</picture>
 
 </div>
 
@@ -173,4 +181,8 @@ Open source initiative for the Chilean financial ecosystem.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a0e00,50:3d2000,100:1a0e00&height=100&section=footer" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:1a0e00,50:3d2000,100:1a0e00&height=100&section=footer" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:fdf6ee,50:fce8d0,100:fdf6ee&height=100&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:1a0e00,50:3d2000,100:1a0e00&height=100&section=footer" />
+</picture>
