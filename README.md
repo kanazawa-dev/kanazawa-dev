@@ -38,6 +38,7 @@ const alex = {
 
 - 🌱 Building **Surco** from zero. Every day, one decision at a time.
 - 🔧 Leading engineering at **Portal de Especialistas** — scaling the product.
+- ⚡ Shipping features at **Karibu** — clean architecture, fast iterations, zero excuses.
 - 💪 Back at the gym. Turns out shipping code and lifting weights have a lot in common: consistency beats intensity.
 - 👧👧 Dad of two little girls who have already deployed more chaos than any production bug I've ever seen.
 - 🌍 Building things to make the future a little better for everyone. At least that's the plan — the girls haven't approved the roadmap yet.
