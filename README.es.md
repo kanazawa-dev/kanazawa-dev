@@ -2,12 +2,12 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2800&pause=900&color=D4956A&center=true&vCenter=true&width=640&lines=Building+Surco+%F0%9F%8C%B1;CTO+%40+Portal+de+Especialistas;Engineer+%40+Karibu;TypeScript+%E2%80%94+Go+%E2%80%94+React+%E2%80%94+Next.js;Los+%C3%81ngeles%2C+Chile+%F0%9F%87%A8%F0%9F%87%B1)](https://github.com/kanazawa-dev)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2800&pause=900&color=D4956A&center=true&vCenter=true&width=640&lines=Construyendo+Surco+%F0%9F%8C%B1;CTO+%40+Portal+de+Especialistas;Engineer+%40+Karibu;TypeScript+%E2%80%94+Go+%E2%80%94+React+%E2%80%94+Next.js;Los+%C3%81ngeles%2C+Chile+%F0%9F%87%A8%F0%9F%87%B1)](https://github.com/kanazawa-dev)
 
 &nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=kanazawa-dev&style=flat-square&color=d4622a&label=profile+views)
+![Visitas al perfil](https://komarev.com/ghpvc/?username=kanazawa-dev&style=flat-square&color=d4622a&label=visitas+al+perfil)
 &nbsp;&nbsp;
-[![🇪🇸 Español](https://img.shields.io/badge/🇪🇸-Español-1a0e00?style=flat-square&logoColor=f5c078)](./README.es.md)
+[![🇺🇸 English](https://img.shields.io/badge/🇺🇸-English-1a0e00?style=flat-square&logoColor=f5c078)](./README.md)
 
 </div>
 
@@ -15,46 +15,46 @@
 
 ```typescript
 const alex = {
-  role:     "Fullstack Engineer & CTO",
-  location: "Los Ángeles, Chile 🇨🇱",
-  building: ["Surco 🌱", "Portal de Especialistas 🔧"],
-  working:  "Karibu",
-  stack:    ["TypeScript", "Go", "React", "Next.js", "Node.js"],
-  motto:    "Build in silence. Let success make the noise.",
+  rol:         "Fullstack Engineer & CTO",
+  ubicación:   "Los Ángeles, Chile 🇨🇱",
+  construyendo: ["Surco 🌱", "Portal de Especialistas 🔧"],
+  trabajo:     "Karibu",
+  stack:       ["TypeScript", "Go", "React", "Next.js", "Node.js"],
+  lema:        "Construye en silencio. Que el éxito haga el ruido.",
 };
 ```
 
 <br/>
 
 <div align="center">
-  <i>"Build in silence. Let success make the noise."</i>
+  <i>"Construye en silencio. Que el éxito haga el ruido."</i>
 </div>
 
 <br/>
 
-## &nbsp;Now
+## &nbsp;Ahora
 
-> *What I'm actually doing right now — updated when life changes.*
+> *Lo que estoy haciendo en este momento — se actualiza cuando la vida cambia.*
 
-- 🌱 Building **Surco** from zero. Every day, one decision at a time.
-- 🔧 Leading engineering at **Portal de Especialistas** — scaling the product.
-- 💪 Back at the gym. Turns out shipping code and lifting weights have a lot in common: consistency beats intensity.
-- 👧👧 Dad of two little girls who have already deployed more chaos than any production bug I've ever seen.
-- 🌍 Building things to make the future a little better for everyone. At least that's the plan — the girls haven't approved the roadmap yet.
+- 🌱 Construyendo **Surco** desde cero. Cada día, una decisión a la vez.
+- 🔧 Liderando ingeniería en **Portal de Especialistas** — escalando el producto.
+- 💪 Volví al gym. Resulta que hacer deploy de código y levantar pesas tienen mucho en común: la constancia le gana a la intensidad.
+- 👧👧 Papá de dos niñas que ya han hecho más deploy de caos que cualquier bug en producción que haya visto.
+- 🌍 Construyendo cosas para que el futuro sea un poco mejor para todos. Al menos ese es el plan — las niñas todavía no aprobaron el roadmap.
 
 <br/>
 
-## &nbsp;What I'm building
+## &nbsp;Qué estoy construyendo
 
 <table>
 <tr>
 <td width="100%" valign="top">
 
 ### 🌱 Surco
-Building from zero. An agtech platform rethinking how the agricultural field operates in Latin America — lean, smart, and built to scale. Every decision made here is long-term.
+Construyendo desde cero. Una plataforma agtech que replantea cómo funciona el campo en Latinoamérica — lean, inteligente y pensada para escalar. Cada decisión aquí es a largo plazo.
 
-[![surco](https://img.shields.io/badge/Founder-building-d4622a?style=flat-square&logoColor=white)]()
-[![status](https://img.shields.io/badge/status-active-f5c078?style=flat-square&logoColor=white)]()
+[![surco](https://img.shields.io/badge/Fundador-construyendo-d4622a?style=flat-square&logoColor=white)]()
+[![status](https://img.shields.io/badge/estado-activo-f5c078?style=flat-square&logoColor=white)]()
 
 </td>
 </tr>
@@ -65,9 +65,9 @@ Building from zero. An agtech platform rethinking how the agricultural field ope
 <td width="100%" valign="top">
 
 ### 🔧 Portal de Especialistas
-CTO — leading product, engineering, and architecture. A marketplace connecting homeowners with home repair specialists. Fast, reliable, zero friction. Scaling.
+CTO — liderando producto, ingeniería y arquitectura. Un marketplace que conecta dueños de casa con especialistas en reparaciones del hogar. Rápido, confiable, sin fricciones. Escalando.
 
-[![portal](https://img.shields.io/badge/CTO-live-c4962a?style=flat-square&logoColor=white)]()
+[![portal](https://img.shields.io/badge/CTO-activo-c4962a?style=flat-square&logoColor=white)]()
 [![stack](https://img.shields.io/badge/Next.js%20%2B%20TypeScript-1a0e00?style=flat-square&logoColor=d4956a)]()
 
 </td>
@@ -80,18 +80,18 @@ CTO — leading product, engineering, and architecture. A marketplace connecting
 
 **⚡ Karibu**
 <br/>
-Fullstack Engineer building products that move fast and actually ship.
+Fullstack Engineer construyendo productos que se mueven rápido y realmente se lanzan.
 
-[![karibu](https://img.shields.io/badge/Engineer-active-d4956a?style=flat-square&logoColor=white)]()
+[![karibu](https://img.shields.io/badge/Engineer-activo-d4956a?style=flat-square&logoColor=white)]()
 
 </td>
 <td width="50%" valign="top">
 
 **🏦 Open Banking Chile**
 <br/>
-Open source initiative for the Chilean financial ecosystem.
+Iniciativa open source para el ecosistema financiero chileno.
 
-[![open-banking](https://img.shields.io/badge/open%20source-public-b8855a?style=flat-square&logo=github&logoColor=white)](https://github.com/kanazawa-dev/open-banking-chile)
+[![open-banking](https://img.shields.io/badge/open%20source-público-b8855a?style=flat-square&logo=github&logoColor=white)](https://github.com/kanazawa-dev/open-banking-chile)
 
 </td>
 </tr>
@@ -118,11 +118,11 @@ Open source initiative for the Chilean financial ecosystem.
 
 <br/>
 
-## &nbsp;Activity
+## &nbsp;Actividad
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=kanazawa-dev&bg_color=1a0e00&color=d4956a&line=d4622a&point=f5c078&area=true&area_color=3d2000&hide_border=true&custom_title=Contribution%20Graph" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=kanazawa-dev&bg_color=1a0e00&color=d4956a&line=d4622a&point=f5c078&area=true&area_color=3d2000&hide_border=true&custom_title=Gr%C3%A1fico%20de%20Contribuciones" />
 
 </div>
 
@@ -142,7 +142,7 @@ Open source initiative for the Chilean financial ecosystem.
 
 <br/>
 
-## &nbsp;Find me
+## &nbsp;Encontrame
 
 <div align="center">
 
