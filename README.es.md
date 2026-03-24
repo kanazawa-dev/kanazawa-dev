@@ -157,15 +157,4 @@ Iniciativa open source para el ecosistema financiero chileno.
 
 <br/>
 
-## &nbsp;
-
-<div align="center">
-
-*Nada de esto sería posible sin mi compañera de vida, **Constanza Rebolledo**.*
-*Ella no escribe código — hace algo más difícil: hace que todo lo demás funcione.*
-
-&nbsp;❤️
-
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0e00,50:3d2000,100:1a0e00&height=100&section=footer" width="100%"/>
