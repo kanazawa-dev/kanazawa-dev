@@ -36,9 +36,9 @@ const alex = {
 
 > *Lo que estoy haciendo en este momento — se actualiza cuando la vida cambia.*
 
-- 🌱 Construyendo **Surco** desde cero. Cada día, una decisión a la vez.
-- 🔧 Liderando ingeniería en **Portal de Especialistas** — escalando el producto.
-- ⚡ Haciendo deploy en **Karibu** — arquitectura limpia, iteraciones rápidas, sin excusas.
+- 🌱 Construyendo ${\color[RGB]{212,149,106}\textbf{Surco}}$ desde cero. Cada día, una decisión a la vez.
+- 🔧 Liderando ingeniería en ${\color[RGB]{212,98,42}\textbf{Portal\ de\ Especialistas}}$ — escalando el producto.
+- ⚡ Haciendo deploy en ${\color[RGB]{59,130,246}\textbf{Karibu}}$ — arquitectura limpia, iteraciones rápidas, sin excusas.
 - 💪 Volví al gym. Resulta que hacer deploy de código y levantar pesas tienen mucho en común: la constancia le gana a la intensidad.
 - 👧👧 Papá de dos niñas que ya han hecho más deploy de caos que cualquier bug en producción que haya visto.
 - 🌍 Construyendo cosas para que el futuro sea un poco mejor para todos. Al menos ese es el plan — las niñas todavía no aprobaron el roadmap.
