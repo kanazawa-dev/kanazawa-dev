@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:1a0e00,50:3d2000,100:1a0e00&height=200&section=header&text=Alex%20Elgueta&fontSize=52&fontColor=f5c078&animation=fadeIn&fontAlignY=36&desc=Fullstack%20Engineer%20%E2%80%94%20Builder%20%E2%80%94%20CTO&descAlignY=58&descSize=16&descColor=d4956a" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a0e00,50:3d2000,100:1a0e00&height=200&section=header&text=Alex%20Elgueta&fontSize=52&fontColor=f5c078&animation=fadeIn&fontAlignY=36&desc=Fullstack%20Engineer%20%E2%80%94%20Builder%20%E2%80%94%20CTO&descAlignY=58&descSize=16&descColor=d4956a" width="100%"/>
 
 <div align="center">
 
@@ -121,16 +121,6 @@ Open source initiative for the Chilean financial ecosystem.
 
 <br/>
 
-## &nbsp;Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=kanazawa-dev&theme=onedark&no-frame=true&no-bg=true&margin-w=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/kanazawa-dev)
-
-</div>
-
-<br/>
-
 ## &nbsp;Tools I use daily
 
 <div align="center">
@@ -183,4 +173,4 @@ Open source initiative for the Chilean financial ecosystem.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:1a0e00,50:3d2000,100:1a0e00&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a0e00,50:3d2000,100:1a0e00&height=100&section=footer" width="100%"/>
