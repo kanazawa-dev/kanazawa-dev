@@ -161,7 +161,7 @@ Iniciativa open source para el ecosistema financiero chileno.
 <div align="center">
 
 *Nada de esto sería posible sin mi compañera de vida, **Constanza Rebolledo**.*
-*Juntos hacemos el mejor trabajo — en código y en todo lo demás.*
+*Ella no escribe código — hace algo más difícil: hace que todo lo demás funcione.*
 
 &nbsp;❤️
 

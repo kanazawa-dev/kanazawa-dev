@@ -161,7 +161,7 @@ Open source initiative for the Chilean financial ecosystem.
 <div align="center">
 
 *None of this would be possible without my partner in life, **Constanza Rebolledo**.*
-*Together we do the best work — in code and beyond.*
+*She doesn't write code — she does something harder: she makes everything else work.*
 
 &nbsp;❤️
 
