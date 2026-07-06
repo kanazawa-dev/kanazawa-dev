@@ -1,187 +1,398 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=transparent&height=130&text=Alex%20Elgueta&fontSize=68&fontColor=f5c078&fontAlignY=45&desc=Fullstack%20Engineer%20%C2%B7%20Builder%20%C2%B7%20CTO&descSize=18&descColor=d4956a&descAlignY=82" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=transparent&height=130&text=Alex%20Elgueta&fontSize=68&fontColor=3d2000&fontAlignY=45&desc=Fullstack%20Engineer%20%C2%B7%20Builder%20%C2%B7%20CTO&descSize=18&descColor=d4622a&descAlignY=82" />
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=130&text=Alex%20Elgueta&fontSize=68&fontColor=f5c078&fontAlignY=45&desc=Fullstack%20Engineer%20%C2%B7%20Builder%20%C2%B7%20CTO&descSize=18&descColor=d4956a&descAlignY=82" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=transparent&height=140&text=Alex%20Elgueta&fontSize=68&fontColor=f5c078&fontAlignY=42&desc=Fullstack%20Engineer%20%C2%B7%20CTO%20%C2%B7%20Indie%20Developer&descSize=18&descColor=d4956a&descAlignY=78" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=transparent&height=140&text=Alex%20Elgueta&fontSize=68&fontColor=3d2000&fontAlignY=42&desc=Fullstack%20Engineer%20%C2%B7%20CTO%20%C2%B7%20Indie%20Developer&descSize=18&descColor=d4622a&descAlignY=78" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=140&text=Alex%20Elgueta&fontSize=68&fontColor=f5c078&fontAlignY=42&desc=Fullstack%20Engineer%20%C2%B7%20CTO%20%C2%B7%20Indie%20Developer&descSize=18&descColor=d4956a&descAlignY=78" alt="Alex Elgueta — Fullstack Engineer, CTO and Indie Developer" />
 </picture>
 
+<a href="https://github.com/kanazawa-dev">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2800&pause=900&color=D4956A&center=true&vCenter=true&width=760&lines=Building%20Kanazawa%20%F0%9F%9A%80;Creator%20of%20Mushu%20%F0%9F%8D%9C;Creator%20of%20Violet%20%F0%9F%92%9C;Fullstack%20Engineer%20%40%20Karibu;CTO%20%40%20Portal%20de%20Especialistas;TypeScript%20%E2%80%94%20Go%20%E2%80%94%20React%20%E2%80%94%20Next.js;Los%20%C3%81ngeles%2C%20Chile%20%F0%9F%87%A8%F0%9F%87%B1" alt="Typing animation" />
+</a>
+
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=kanazawa-dev&style=flat-square&color=d4622a&label=profile+views" alt="Profile views" />
+&nbsp;
+<a href="./README.es.md">
+  <img src="https://img.shields.io/badge/🇪🇸-Español-1a0e00?style=flat-square&logoColor=f5c078" alt="Español" />
+</a>
+
 </div>
+
+<br />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2800&pause=900&color=D4956A&center=true&vCenter=true&width=640&lines=Building+Surco+%F0%9F%8C%B1;CTO+%40+Portal+de+Especialistas;Engineer+%40+Karibu;TypeScript+%E2%80%94+Go+%E2%80%94+React+%E2%80%94+Next.js;Los+%C3%81ngeles%2C+Chile+%F0%9F%87%A8%F0%9F%87%B1)](https://github.com/kanazawa-dev)
+# Kanazawa
 
-&nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=kanazawa-dev&style=flat-square&color=d4622a&label=profile+views)
-&nbsp;&nbsp;
-[![🇪🇸 Español](https://img.shields.io/badge/🇪🇸-Español-1a0e00?style=flat-square&logoColor=f5c078)](./README.es.md)
+**Build with intention. Ship with consistency.**
+
+<p>
+  <a href="https://alexelgueta.me">
+    <img src="https://img.shields.io/badge/Website-alexelgueta.me-1a0e00?style=for-the-badge&logo=safari&logoColor=f5c078" alt="Website" />
+  </a>
+  <a href="https://github.com/kanazawa-dev">
+    <img src="https://img.shields.io/badge/GitHub-kanazawa--dev-1a0e00?style=for-the-badge&logo=github&logoColor=f5c078" alt="GitHub" />
+  </a>
+  <a href="https://twitter.com/AlexElguetaDev">
+    <img src="https://img.shields.io/badge/X-@AlexElguetaDev-1a0e00?style=for-the-badge&logo=x&logoColor=d4956a" alt="X / Twitter" />
+  </a>
+</p>
 
 </div>
 
-<br/>
+---
 
-```typescript
+## Hi, I'm Alex 👋
+
+I'm a **Fullstack Engineer at Karibu**, **CTO at Portal de Especialistas**, and the builder behind **Kanazawa**.
+
+I create AI-powered products that make everyday tasks feel simpler, faster and more enjoyable.
+
+```ts
 const alex = {
-  role:     "Fullstack Engineer & CTO",
-  location: "Los Ángeles, Chile 🇨🇱",
-  building: ["Surco 🌱", "Portal de Especialistas 🔧"],
-  working:  "Karibu",
-  stack:    ["TypeScript", "Go", "React", "Next.js", "Node.js"],
-  motto:    "Build in silence. Let success make the noise.",
+  aka: "Kanazawa",
+
+  currently: {
+    work: "Fullstack Engineer @ Karibu",
+    leadership: "CTO @ Portal de Especialistas",
+    building: ["Mushu 🍜", "Violet 💜"],
+  },
+
+  focus: [
+    "AI-powered products",
+    "Clean architecture",
+    "Thoughtful design",
+    "Fast shipping",
+  ],
+
+  stack: [
+    "TypeScript",
+    "Go",
+    "React",
+    "Next.js",
+    "Node.js",
+    "PostgreSQL",
+    "Docker",
+    "AWS",
+  ],
+
+  believes: [
+    "Simple beats complex",
+    "Consistency beats intensity",
+    "Ship > Perfect",
+  ],
 };
 ```
 
-<br/>
+---
 
-<div align="center">
-  <i>"Build in silence. Let success make the noise."</i>
-</div>
-
-<br/>
-
-## &nbsp;Now
-
-> *What I'm actually doing right now — updated when life changes.*
-
-- 🌱 Building ${\color[RGB]{212,149,106}\textbf{Surco}}$ from zero. Every day, one decision at a time.
-- 🔧 Leading engineering at ${\color[RGB]{212,98,42}\textbf{Portal\ de\ Especialistas}}$ — scaling the product.
-- ⚡ Shipping features at ${\color[RGB]{59,130,246}\textbf{Karibu}}$ — clean architecture, fast iterations, zero excuses.
-- 💪 Back at the gym. Turns out shipping code and lifting weights have a lot in common: consistency beats intensity.
-- 👧👧 Dad of two little girls who have already deployed more chaos than any production bug I've ever seen.
-- 🌍 Building things to make the future a little better for everyone. At least that's the plan — the girls haven't approved the roadmap yet.
-- ❤️ Doing all of this next to **Constanza Rebolledo** — she doesn't write code, she does something harder: she makes everything else work.
-
-<br/>
-
-## &nbsp;What I'm building
+## Currently
 
 <table>
 <tr>
-<td width="100%" valign="top">
+<td width="20%" align="center">
+  <strong>⚡ Karibu</strong>
+  <br />
+  <sub>Fullstack Engineer</sub>
+</td>
+<td width="20%" align="center">
+  <strong>🔧 Portal</strong>
+  <br />
+  <sub>CTO</sub>
+</td>
+<td width="20%" align="center">
+  <strong>🚀 Kanazawa</strong>
+  <br />
+  <sub>Personal Brand</sub>
+</td>
+<td width="20%" align="center">
+  <strong>🍜 Mushu</strong>
+  <br />
+  <sub>AI Food Tracking</sub>
+</td>
+<td width="20%" align="center">
+  <strong>💜 Violet</strong>
+  <br />
+  <sub>AI Finance</sub>
+</td>
+</tr>
+</table>
 
-### 🌱 Surco
-Building from zero. An agtech platform rethinking how the agricultural field operates in Latin America — lean, smart, and built to scale. Every decision made here is long-term.
+---
 
-[![surco](https://img.shields.io/badge/Founder-building-d4622a?style=flat-square&logoColor=white)]()
-[![status](https://img.shields.io/badge/status-active-f5c078?style=flat-square&logoColor=white)]()
+## Kanazawa
+
+**Kanazawa** is my personal brand.
+
+It's where I build products, experiment with AI, contribute to open source and document what I learn while creating software.
+
+My goal is simple: **craft software people genuinely enjoy using.**
+
+<br />
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### Build
+
+Small products with clear purpose, thoughtful UX and practical engineering.
+
+</td>
+<td width="33%" valign="top">
+
+### Learn
+
+Every project is a chance to improve the craft and understand users better.
+
+</td>
+<td width="33%" valign="top">
+
+### Share
+
+Ideas, experiments, open source and lessons learned along the way.
 
 </td>
 </tr>
 </table>
 
-<table>
-<tr>
-<td width="100%" valign="top">
+---
 
-### 🔧 Portal de Especialistas
-CTO — leading product, engineering, and architecture. A marketplace connecting homeowners with home repair specialists. Fast, reliable, zero friction. Scaling.
-
-[![portal](https://img.shields.io/badge/CTO-live-c4962a?style=flat-square&logoColor=white)]()
-[![stack](https://img.shields.io/badge/Next.js%20%2B%20TypeScript-1a0e00?style=flat-square&logoColor=d4956a)]()
-
-</td>
-</tr>
-</table>
+## Featured Products
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**⚡ Karibu**
-<br/>
-Fullstack Engineer — building internal tools and client-facing products. Focused on clean architecture, scalable frontends, and making sure things don't break at 2am.
+# 🍜 Mushu
 
-[![karibu](https://img.shields.io/badge/Fullstack-active-d4956a?style=flat-square&logoColor=white)]()
-[![stack](https://img.shields.io/badge/React%20%2B%20Node.js%20%2B%20TypeScript-1a0e00?style=flat-square&logoColor=d4956a)]()
+**AI food tracking without the friction.**
+
+Just describe your meal or take a photo. Mushu helps you log food naturally, without turning nutrition into a spreadsheet.
+
+<br />
+
+<img src="https://img.shields.io/badge/status-building-f5c078?style=flat-square" alt="Building" />
+<img src="https://img.shields.io/badge/AI-powered-d4622a?style=flat-square" alt="AI powered" />
+<img src="https://img.shields.io/badge/focus-nutrition-1a0e00?style=flat-square" alt="Nutrition" />
+
+<br /><br />
+
+**Built for:**
+
+- Fast meal logging
+- Natural language input
+- Photo-based tracking
+- Simple daily habits
 
 </td>
 <td width="50%" valign="top">
 
-**🏦 Open Banking Chile**
-<br/>
-Open source initiative for the Chilean financial ecosystem.
+# 💜 Violet
 
-[![open-banking](https://img.shields.io/badge/open%20source-public-b8855a?style=flat-square&logo=github&logoColor=white)](https://github.com/kanazawa-dev/open-banking-chile)
+**Personal finance that feels effortless.**
+
+Log expenses naturally, understand your spending and let AI organize your financial life without the usual complexity.
+
+<br />
+
+<img src="https://img.shields.io/badge/status-building-f5c078?style=flat-square" alt="Building" />
+<img src="https://img.shields.io/badge/AI-powered-d4622a?style=flat-square" alt="AI powered" />
+<img src="https://img.shields.io/badge/focus-finance-1a0e00?style=flat-square" alt="Finance" />
+
+<br /><br />
+
+**Built for:**
+
+- Quick expense logging
+- Natural language input
+- Spending clarity
+- Better money habits
 
 </td>
 </tr>
 </table>
 
-<br/>
+---
 
-## &nbsp;Stack
+## Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## ⚡ Karibu
+
+**Fullstack Engineer**
+
+Building scalable web applications, internal platforms and modern products using React, TypeScript and Go.
+
+<br />
+
+<img src="https://img.shields.io/badge/role-Fullstack_Engineer-d4956a?style=flat-square" alt="Fullstack Engineer" />
+<img src="https://img.shields.io/badge/stack-React_·_Go_·_TypeScript-1a0e00?style=flat-square" alt="React Go TypeScript" />
+
+</td>
+<td width="50%" valign="top">
+
+## 🔧 Portal de Especialistas
+
+**Chief Technology Officer**
+
+Leading engineering, architecture and product strategy for a marketplace connecting homeowners with trusted specialists.
+
+<br />
+
+<img src="https://img.shields.io/badge/role-CTO-c4962a?style=flat-square" alt="CTO" />
+<img src="https://img.shields.io/badge/focus-Product_·_Architecture-1a0e00?style=flat-square" alt="Product and Architecture" />
+
+</td>
+</tr>
+</table>
+
+---
+
+## Open Source
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
+## 🏦 Open Banking Chile
+
+Helping developers build on Chile's Open Banking ecosystem through open-source tooling and documentation.
+
+<br />
+
+<a href="https://github.com/kanazawa-dev/open-banking-chile">
+  <img src="https://img.shields.io/badge/repository-open_banking_chile-b8855a?style=for-the-badge&logo=github&logoColor=white" alt="Open Banking Chile repository" />
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## Philosophy
+
+<table>
+<tr>
+<td width="20%" align="center">
+  <strong>Build first</strong>
+  <br />
+  <sub>Momentum creates clarity.</sub>
+</td>
+<td width="20%" align="center">
+  <strong>Keep it simple</strong>
+  <br />
+  <sub>Complexity is expensive.</sub>
+</td>
+<td width="20%" align="center">
+  <strong>Ship often</strong>
+  <br />
+  <sub>Consistency compounds.</sub>
+</td>
+<td width="20%" align="center">
+  <strong>Design matters</strong>
+  <br />
+  <sub>Software should feel good.</sub>
+</td>
+<td width="20%" align="center">
+  <strong>Keep learning</strong>
+  <br />
+  <sub>The craft never ends.</sub>
+</td>
+</tr>
+</table>
+
+---
+
+## Tech Stack
 
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-1a0e00?style=for-the-badge&logo=typescript&logoColor=d4956a)
-![Go](https://img.shields.io/badge/Go-1a0e00?style=for-the-badge&logo=go&logoColor=f5c078)
-![React](https://img.shields.io/badge/React-1a0e00?style=for-the-badge&logo=react&logoColor=d4622a)
-![Next.js](https://img.shields.io/badge/Next.js-1a0e00?style=for-the-badge&logo=nextdotjs&logoColor=f5c078)
-![Node.js](https://img.shields.io/badge/Node.js-1a0e00?style=for-the-badge&logo=nodedotjs&logoColor=d4956a)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a0e00?style=for-the-badge&logo=postgresql&logoColor=c4962a)
-![Redis](https://img.shields.io/badge/Redis-1a0e00?style=for-the-badge&logo=redis&logoColor=d4622a)
-![Docker](https://img.shields.io/badge/Docker-1a0e00?style=for-the-badge&logo=docker&logoColor=f5c078)
-![AWS](https://img.shields.io/badge/AWS-1a0e00?style=for-the-badge&logo=amazonwebservices&logoColor=d4956a)
-![Tailwind](https://img.shields.io/badge/Tailwind-1a0e00?style=for-the-badge&logo=tailwindcss&logoColor=c4962a)
+<img src="https://img.shields.io/badge/TypeScript-1a0e00?style=for-the-badge&logo=typescript&logoColor=d4956a" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Go-1a0e00?style=for-the-badge&logo=go&logoColor=f5c078" alt="Go" />
+<img src="https://img.shields.io/badge/React-1a0e00?style=for-the-badge&logo=react&logoColor=d4622a" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-1a0e00?style=for-the-badge&logo=nextdotjs&logoColor=f5c078" alt="Next.js" />
+<img src="https://img.shields.io/badge/Node.js-1a0e00?style=for-the-badge&logo=nodedotjs&logoColor=d4956a" alt="Node.js" />
+<img src="https://img.shields.io/badge/PostgreSQL-1a0e00?style=for-the-badge&logo=postgresql&logoColor=c4962a" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Redis-1a0e00?style=for-the-badge&logo=redis&logoColor=d4622a" alt="Redis" />
+<img src="https://img.shields.io/badge/Docker-1a0e00?style=for-the-badge&logo=docker&logoColor=f5c078" alt="Docker" />
+<img src="https://img.shields.io/badge/AWS-1a0e00?style=for-the-badge&logo=amazonwebservices&logoColor=d4956a" alt="AWS" />
+<img src="https://img.shields.io/badge/TailwindCSS-1a0e00?style=for-the-badge&logo=tailwindcss&logoColor=c4962a" alt="TailwindCSS" />
 
 </div>
 
-<br/>
+---
 
-## &nbsp;Tools I use daily
+## Daily Tools
 
 <div align="center">
 
-![Claude Code](https://img.shields.io/badge/Claude%20Code-1a0e00?style=for-the-badge&logo=anthropic&logoColor=d4956a)
-![Neovim](https://img.shields.io/badge/Neovim-1a0e00?style=for-the-badge&logo=neovim&logoColor=57A143)
-![Ghostty](https://img.shields.io/badge/Ghostty-1a0e00?style=for-the-badge&logo=gnometerminal&logoColor=f5c078)
-![Zellij](https://img.shields.io/badge/Zellij-1a0e00?style=for-the-badge&logo=tmux&logoColor=d4622a)
-![Starship](https://img.shields.io/badge/Starship-1a0e00?style=for-the-badge&logo=starship&logoColor=f5c078)
-![Raycast](https://img.shields.io/badge/Raycast-1a0e00?style=for-the-badge&logo=raycast&logoColor=d4956a)
-![Linear](https://img.shields.io/badge/Linear-1a0e00?style=for-the-badge&logo=linear&logoColor=5E6AD2)
+<img src="https://img.shields.io/badge/Claude_Code-1a0e00?style=for-the-badge&logo=anthropic&logoColor=d4956a" alt="Claude Code" />
+<img src="https://img.shields.io/badge/Neovim-1a0e00?style=for-the-badge&logo=neovim&logoColor=57A143" alt="Neovim" />
+<img src="https://img.shields.io/badge/Ghostty-1a0e00?style=for-the-badge&logo=gnometerminal&logoColor=f5c078" alt="Ghostty" />
+<img src="https://img.shields.io/badge/Zellij-1a0e00?style=for-the-badge" alt="Zellij" />
+<img src="https://img.shields.io/badge/Starship-1a0e00?style=for-the-badge&logo=starship&logoColor=f5c078" alt="Starship" />
+<img src="https://img.shields.io/badge/Raycast-1a0e00?style=for-the-badge&logo=raycast&logoColor=d4956a" alt="Raycast" />
+<img src="https://img.shields.io/badge/Linear-1a0e00?style=for-the-badge&logo=linear&logoColor=5E6AD2" alt="Linear" />
 
 </div>
 
-<br/>
+---
 
-## &nbsp;Activity
+## Activity
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=kanazawa-dev&bg_color=1a0e00&color=d4956a&line=d4622a&point=f5c078&area=true&area_color=3d2000&hide_border=true&custom_title=Contribution%20Graph" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=kanazawa-dev&bg_color=fdf6ee&color=3d2000&line=d4622a&point=c4962a&area=true&area_color=fce8d0&hide_border=true&custom_title=Contribution%20Graph" />
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=kanazawa-dev&bg_color=1a0e00&color=d4956a&line=d4622a&point=f5c078&area=true&area_color=3d2000&hide_border=true&custom_title=Contribution%20Graph" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=kanazawa-dev&bg_color=1a0e00&color=d4956a&line=d4622a&point=f5c078&area=true&area_color=3d2000&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
 </picture>
 
 </div>
 
-<br/>
+---
 
-## &nbsp;Snake
+## Contributions
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kanazawa-dev/kanazawa-dev/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kanazawa-dev/kanazawa-dev/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/kanazawa-dev/kanazawa-dev/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/kanazawa-dev/kanazawa-dev/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
 
-<br/>
-
-## &nbsp;Find me
+---
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/alexelgueta.me-1a0e00?style=for-the-badge&logo=safari&logoColor=f5c078)](https://www.alexelgueta.me/)
-[![Twitter](https://img.shields.io/badge/@AlexElguetaDev-1a0e00?style=for-the-badge&logo=x&logoColor=d4956a)](https://twitter.com/AlexElguetaDev)
-[![GitHub](https://img.shields.io/badge/kanazawa--dev-1a0e00?style=for-the-badge&logo=github&logoColor=f5c078)](https://github.com/kanazawa-dev)
+## Let's connect
+
+<p>
+  <a href="https://alexelgueta.me">
+    <img src="https://img.shields.io/badge/Website-alexelgueta.me-1a0e00?style=for-the-badge&logo=safari&logoColor=f5c078" alt="Website" />
+  </a>
+  <a href="https://github.com/kanazawa-dev">
+    <img src="https://img.shields.io/badge/GitHub-kanazawa--dev-1a0e00?style=for-the-badge&logo=github&logoColor=f5c078" alt="GitHub" />
+  </a>
+  <a href="https://twitter.com/AlexElguetaDev">
+    <img src="https://img.shields.io/badge/X-@AlexElguetaDev-1a0e00?style=for-the-badge&logo=x&logoColor=d4956a" alt="X / Twitter" />
+  </a>
+</p>
+
+<br />
+
+<sub>
+Built under <strong>Kanazawa</strong> · Los Ángeles, Chile 🇨🇱
+</sub>
 
 </div>
-
-<br/>
-
