@@ -89,7 +89,7 @@ Registra gastos en lenguaje natural. Violet organiza tu vida financiera sin la c
 - **Karibu** · Fullstack Engineer — aplicaciones web escalables en TypeScript, React y NestJS.  
 - **Portal de Especialistas** · CTO — ingeniería, arquitectura y producto de un marketplace que conecta hogares con especialistas de confianza.
 
-**🛡️ Titvo** — Seguridad de código con IA. [titvo.com](https://titvo.com) · [repo](https://github.com/kanazawa-dev/titvo-security-scan)
+**🛡️ Titvo** — Contribuyo a seguridad de código con IA en Karibu. [titvo.com](https://titvo.com) · [repo](https://github.com/KaribuLab/titvo-security-scan)
 
 ---
 
