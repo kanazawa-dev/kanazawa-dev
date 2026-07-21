@@ -44,12 +44,12 @@ Fullstack Engineer at **Karibu** · CTO at **Portal de Especialistas** · Indie 
 ```ts
 const alex = {
   aka: "Kanazawa",
-  location: "Los Ángeles, Chile 🇨🇱",
+  location: "Los Ángeles, Chile",
 
   currently: {
     work: "Fullstack Engineer @ Karibu",
     leadership: "CTO @ Portal de Especialistas",
-    building: ["Mushu 🍜", "Violet 💜"],
+    building: ["Mushu", "Violet"],
   },
 
   focus: [

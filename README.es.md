@@ -43,34 +43,34 @@ Fullstack Engineer en **Karibu** · CTO en **Portal de Especialistas** · Creado
 
 ```ts
 const alex = {
-  aka: "Kanazawa",
-  location: "Los Ángeles, Chile 🇨🇱",
+  apodo: "Kanazawa",
+  ubicacion: "Los Ángeles, Chile",
 
-  currently: {
-    work: "Fullstack Engineer @ Karibu",
-    leadership: "CTO @ Portal de Especialistas",
-    building: ["Mushu 🍜", "Violet 💜"],
+  actualmente: {
+    trabajo: "Fullstack Engineer en Karibu",
+    liderazgo: "CTO en Portal de Especialistas",
+    creando: ["Mushu", "Violet"],
   },
 
-  focus: [
-    "AI-powered products",
-    "Clean architecture",
-    "Thoughtful design",
-    "Fast shipping",
+  enfoque: [
+    "Productos con IA",
+    "Arquitectura limpia",
+    "Diseño cuidado",
+    "Publicación rápida",
   ],
 
   stack: {
-    loves:   ["TypeScript", "JavaScript", "Rust"],
-    builds:  ["React", "Next.js", "Supabase", "Drizzle", "TailwindCSS"],
-    mobile:  ["React Native", "Swift", "Kotlin"],
-    backend: ["Node.js", "Bun", "NestJS", "tRPC", "PostgreSQL", "Redis"],
-    ships:   ["Vercel", "Docker", "AWS", "GCP"],
+    ama:       ["TypeScript", "JavaScript", "Rust"],
+    construye: ["React", "Next.js", "Supabase", "Drizzle", "TailwindCSS"],
+    mobile:    ["React Native", "Swift", "Kotlin"],
+    backend:   ["Node.js", "Bun", "NestJS", "tRPC", "PostgreSQL", "Redis"],
+    despliega: ["Vercel", "Docker", "AWS", "GCP"],
   },
 
-  believes: [
-    "Simple beats complex",
-    "Consistency beats intensity",
-    "Ship > Perfect",
+  cree: [
+    "Lo simple le gana al complejo",
+    "La constancia le gana a la intensidad",
+    "Publicar > Perfeccionar",
   ],
 };
 ```
