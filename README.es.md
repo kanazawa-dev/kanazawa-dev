@@ -61,7 +61,8 @@ const alex = {
 
   stack: {
     loves:   ["TypeScript", "JavaScript", "Rust"],
-    builds:  ["React", "Next.js", "React Native", "Supabase", "Drizzle", "TailwindCSS"],
+    builds:  ["React", "Next.js", "Supabase", "Drizzle", "TailwindCSS"],
+    mobile:  ["React Native", "Swift", "Kotlin"],
     backend: ["Node.js", "Bun", "NestJS", "tRPC", "PostgreSQL", "Redis"],
     ships:   ["Vercel", "Docker", "AWS", "GCP"],
   },
@@ -88,7 +89,7 @@ Registra gastos en lenguaje natural. Violet organiza tu vida financiera sin la c
 - **Karibu** · Fullstack Engineer — aplicaciones web escalables en TypeScript, React y NestJS.  
 - **Portal de Especialistas** · CTO — ingeniería, arquitectura y producto de un marketplace que conecta hogares con especialistas de confianza.
 
-**🏦 Código abierto** — [open-banking-chile](https://github.com/kanazawa-dev/open-banking-chile): herramientas y documentación para el ecosistema de Open Banking en Chile.
+**🛡️ Titvo** — Seguridad de código con IA. [titvo.com](https://titvo.com) · [repo](https://github.com/kanazawa-dev/titvo-security-scan)
 
 ---
 
@@ -119,23 +120,10 @@ Registra gastos en lenguaje natural. Violet organiza tu vida financiera sin la c
 </div>
 
 **❤️  TypeScript** · **JavaScript** · **Rust**  
-**🔨  React** · **Next.js** · **React Native** · **Supabase** · **Drizzle** · **TailwindCSS**  
+**🔨  React** · **Next.js** · **Supabase** · **Drizzle** · **TailwindCSS**  
+**📱  React Native** · **Swift** · **Kotlin**  
 **⚙️  Node.js** · **Bun** · **NestJS** · **tRPC** · **PostgreSQL** · **Redis**  
 **🚢  Vercel** · **Docker** · **AWS** · **GCP**
-
----
-
-## Actividad
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=kanazawa-dev&bg_color=1a0e00&color=d4956a&line=d4622a&point=f5c078&area=true&area_color=3d2000&hide_border=true&custom_title=Contribution%20Graph" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=kanazawa-dev&bg_color=fdf6ee&color=3d2000&line=d4622a&point=c4962a&area=true&area_color=fce8d0&hide_border=true&custom_title=Contribution%20Graph" />
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=kanazawa-dev&bg_color=1a0e00&color=d4956a&line=d4622a&point=f5c078&area=true&area_color=3d2000&hide_border=true&custom_title=Contribution%20Graph" alt="Gráfico de contribuciones" />
-</picture>
-
-</div>
 
 ---
 
