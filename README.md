@@ -80,6 +80,8 @@ const alex = {
 };
 ```
 
+> **HTMX + Go is all you need. Next.js is overkill.**
+
 ---
 
 ## Building
