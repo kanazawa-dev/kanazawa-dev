@@ -114,12 +114,32 @@ A multi-tenant workspace: an agency creates AI agents, gives each client a brand
   </a>
 </p>
 
+### [Titvo](https://titvo.com) — AI-powered code security
+
+I contribute to Titvo at Karibu: AI that reviews your code for security issues before it ships.
+
+<p>
+  <a href="https://titvo.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Site-titvo.com-78a7ff?style=flat-square&labelColor=78a7ff&logoColor=071a3d" />
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Site-titvo.com-1748c7?style=flat-square&labelColor=1748c7&logoColor=fffdf7" />
+      <img src="https://img.shields.io/badge/Site-titvo.com-1748c7?style=flat-square&labelColor=1748c7" alt="titvo.com" />
+    </picture>
+  </a>
+  <a href="https://github.com/KaribuLab/titvo-security-scan">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/stars/KaribuLab/titvo-security-scan?style=flat-square&color=78a7ff&labelColor=071a3d" />
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/stars/KaribuLab/titvo-security-scan?style=flat-square&color=1748c7&labelColor=faf7ef" />
+      <img src="https://img.shields.io/github/stars/KaribuLab/titvo-security-scan?style=flat-square&color=1748c7&labelColor=faf7ef" alt="Titvo stars" />
+    </picture>
+  </a>
+</p>
+
 **Also building** — **Mushu**, AI food tracking without the friction, and **Violet**, personal finance that feels effortless.
 
-**Day job & side contributions** —
+**Day job** —
 - **Karibu** · Fullstack Engineer — scalable web apps in TypeScript, React and NestJS.
 - **Portal de Especialistas** · CTO — engineering, architecture and product for a marketplace connecting homeowners with trusted specialists.
-- **Titvo** · contribute to AI-powered code security. [titvo.com](https://titvo.com) · [repo](https://github.com/KaribuLab/titvo-security-scan)
 
 ---
 

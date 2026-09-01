@@ -114,12 +114,32 @@ Un workspace multi-tenant: una agencia crea agentes de IA, le da a cada cliente 
   </a>
 </p>
 
+### [Titvo](https://titvo.com) — seguridad de código con IA
+
+Contribuyo en Titvo, dentro de Karibu: una IA que revisa tu código en busca de fallas de seguridad antes de que salga a producción.
+
+<p>
+  <a href="https://titvo.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Sitio-titvo.com-78a7ff?style=flat-square&labelColor=78a7ff&logoColor=071a3d" />
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Sitio-titvo.com-1748c7?style=flat-square&labelColor=1748c7&logoColor=fffdf7" />
+      <img src="https://img.shields.io/badge/Sitio-titvo.com-1748c7?style=flat-square&labelColor=1748c7" alt="titvo.com" />
+    </picture>
+  </a>
+  <a href="https://github.com/KaribuLab/titvo-security-scan">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/stars/KaribuLab/titvo-security-scan?style=flat-square&color=78a7ff&labelColor=071a3d" />
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/stars/KaribuLab/titvo-security-scan?style=flat-square&color=1748c7&labelColor=faf7ef" />
+      <img src="https://img.shields.io/github/stars/KaribuLab/titvo-security-scan?style=flat-square&color=1748c7&labelColor=faf7ef" alt="Titvo stars" />
+    </picture>
+  </a>
+</p>
+
 **También construyendo** — **Mushu**, registro de comidas con IA sin fricción, y **Violet**, finanzas personales que se sienten naturales.
 
-**Trabajo y otras contribuciones** —
+**Trabajo** —
 - **Karibu** · Fullstack Engineer — aplicaciones web escalables en TypeScript, React y NestJS.
 - **Portal de Especialistas** · CTO — ingeniería, arquitectura y producto de un marketplace que conecta hogares con especialistas de confianza.
-- **Titvo** · Contribuyo a seguridad de código con IA. [titvo.com](https://titvo.com) · [repo](https://github.com/KaribuLab/titvo-security-scan)
 
 ---
 
