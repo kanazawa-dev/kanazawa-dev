@@ -1,33 +1,40 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=transparent&height=140&text=Alex%20Elgueta&fontSize=68&fontColor=ffffff&fontAlignY=42&desc=Fullstack%20Engineer%20%C2%B7%20CTO%20%C2%B7%20Indie%20Developer&descSize=18&descColor=aaaaaa&descAlignY=78" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=transparent&height=140&text=Alex%20Elgueta&fontSize=68&fontColor=000000&fontAlignY=42&desc=Fullstack%20Engineer%20%C2%B7%20CTO%20%C2%B7%20Indie%20Developer&descSize=18&descColor=666666&descAlignY=78" />
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=140&text=Alex%20Elgueta&fontSize=68&fontColor=ffffff&fontAlignY=42&desc=Fullstack%20Engineer%20%C2%B7%20CTO%20%C2%B7%20Indie%20Developer&descSize=18&descColor=aaaaaa&descAlignY=78" alt="Alex Elgueta — Fullstack Engineer, CTO e Indie Developer" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=transparent&height=140&text=Alex%20Elgueta&fontSize=68&fontColor=78a7ff&fontAlignY=42&desc=AI%20Software%20Engineer%20%C2%B7%20Indie%20Builder&descSize=18&descColor=aaaaaa&descAlignY=78" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=transparent&height=140&text=Alex%20Elgueta&fontSize=68&fontColor=1748c7&fontAlignY=42&desc=AI%20Software%20Engineer%20%C2%B7%20Indie%20Builder&descSize=18&descColor=666666&descAlignY=78" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=140&text=Alex%20Elgueta&fontSize=68&fontColor=1748c7&fontAlignY=42&desc=AI%20Software%20Engineer%20%C2%B7%20Indie%20Builder&descSize=18&descColor=666666&descAlignY=78" alt="Alex Elgueta — AI Software Engineer e Indie Builder" />
 </picture>
 
-> **Construye con intención. Publica con constancia.**
+> **Publica algo que la gente realmente use.**
 
 <p>
+  <a href="https://voysse.cl">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Construyendo-Voysse-78a7ff?style=flat-square&logoColor=071a3d&labelColor=78a7ff" />
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Construyendo-Voysse-1748c7?style=flat-square&logoColor=fffdf7&labelColor=1748c7" />
+      <img src="https://img.shields.io/badge/Construyendo-Voysse-1748c7?style=flat-square&logoColor=fffdf7&labelColor=1748c7" alt="Construyendo Voysse" />
+    </picture>
+  </a>
   <a href="https://alexelgueta.me">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Website-alexelgueta.me-ffffff?style=flat-square&logo=safari&logoColor=000000&labelColor=ffffff" />
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Website-alexelgueta.me-000000?style=flat-square&logo=safari&logoColor=ffffff&labelColor=000000" />
-      <img src="https://img.shields.io/badge/Website-alexelgueta.me-000000?style=flat-square&logo=safari&logoColor=ffffff&labelColor=000000" alt="Sitio web" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Website-alexelgueta.me-78a7ff?style=flat-square&logo=safari&logoColor=071a3d&labelColor=78a7ff" />
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Website-alexelgueta.me-1748c7?style=flat-square&logo=safari&logoColor=fffdf7&labelColor=1748c7" />
+      <img src="https://img.shields.io/badge/Website-alexelgueta.me-1748c7?style=flat-square&logo=safari&logoColor=fffdf7&labelColor=1748c7" alt="Sitio web" />
     </picture>
   </a>
   <a href="https://github.com/kanazawa-dev">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GitHub-kanazawa--dev-ffffff?style=flat-square&logo=github&logoColor=000000&labelColor=ffffff" />
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/GitHub-kanazawa--dev-000000?style=flat-square&logo=github&logoColor=ffffff&labelColor=000000" />
-      <img src="https://img.shields.io/badge/GitHub-kanazawa--dev-000000?style=flat-square&logo=github&logoColor=ffffff&labelColor=000000" alt="GitHub" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GitHub-kanazawa--dev-78a7ff?style=flat-square&logo=github&logoColor=071a3d&labelColor=78a7ff" />
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/GitHub-kanazawa--dev-1748c7?style=flat-square&logo=github&logoColor=fffdf7&labelColor=1748c7" />
+      <img src="https://img.shields.io/badge/GitHub-kanazawa--dev-1748c7?style=flat-square&logo=github&logoColor=fffdf7&labelColor=1748c7" alt="GitHub" />
     </picture>
   </a>
   <a href="https://twitter.com/AlexElguetaDev">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/X-@AlexElguetaDev-ffffff?style=flat-square&logo=x&logoColor=000000&labelColor=ffffff" />
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/X-@AlexElguetaDev-000000?style=flat-square&logo=x&logoColor=ffffff&labelColor=000000" />
-      <img src="https://img.shields.io/badge/X-@AlexElguetaDev-000000?style=flat-square&logo=x&logoColor=ffffff&labelColor=000000" alt="X / Twitter" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/X-@AlexElguetaDev-78a7ff?style=flat-square&logo=x&logoColor=071a3d&labelColor=78a7ff" />
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/X-@AlexElguetaDev-1748c7?style=flat-square&logo=x&logoColor=fffdf7&labelColor=1748c7" />
+      <img src="https://img.shields.io/badge/X-@AlexElguetaDev-1748c7?style=flat-square&logo=x&logoColor=fffdf7&labelColor=1748c7" alt="X / Twitter" />
     </picture>
   </a>
 </p>
@@ -42,61 +49,77 @@
 
 ## Hola, soy Alex
 
-Construyo productos potenciados con IA que hacen que las tareas cotidianas se sientan más simples, rápidas y agradables.
+Ingeniero de software especializado en IA. Construyo productos de punta a punta — desde las llamadas al modelo hasta los registros DNS — y los publico yo mismo en vez de esperar un roadmap.
 
-Fullstack Engineer en **Karibu** · CTO en **Portal de Especialistas** · Creador indie detrás de **Kanazawa**.
+Hoy en día eso significa **[Voysse](https://voysse.cl)**, a tiempo completo como indie: una plataforma open-source y white-label para que agencias creen, operen y administren agentes de IA para sus clientes por WhatsApp y web chat. También mantengo un pie en un trabajo de día en **Karibu**.
 
 ```ts
 const alex = {
   apodo: "Kanazawa",
   ubicacion: "Los Ángeles, Chile",
 
-  actualmente: {
-    trabajo: "Fullstack Engineer en Karibu",
-    liderazgo: "CTO en Portal de Especialistas",
-    creando: ["Mushu", "Violet"],
-  },
+  construyendo: "Voysse — agentes de IA open-source para agencias",
+  trabajo: "Fullstack Engineer en Karibu",
+  liderazgo: "CTO en Portal de Especialistas",
 
   enfoque: [
     "Productos con IA",
     "Arquitectura limpia",
-    "Diseño cuidado",
-    "Publicación rápida",
+    "Publicar antes que planificar",
   ],
 
   stack: {
-    ama:       ["TypeScript", "JavaScript", "Rust"],
-    construye: ["React", "Next.js", "Supabase", "Drizzle", "TailwindCSS"],
-    mobile:    ["React Native", "Swift", "Kotlin"],
-    backend:   ["Node.js", "Bun", "NestJS", "tRPC", "PostgreSQL", "Redis"],
-    despliega: ["Vercel", "Docker", "AWS", "GCP"],
+    ama:       ["TypeScript", "Python", "Rust"],
+    construye: ["Next.js", "FastAPI", "PostgreSQL", "Docker"],
+    despliega: ["Railway", "Vercel", "AWS", "Cloudflare"],
   },
 
   cree: [
     "Lo simple le gana al complejo",
-    "La constancia le gana a la intensidad",
     "Publicar > Perfeccionar",
+    "Sé dueño de tu stack",
   ],
 };
 ```
-
-> **HTMX + Go es todo lo que necesitas. Next.js es excesivo.**
 
 ---
 
 ## En lo que trabajo
 
-**Mushu** — Registro de comidas con IA, sin fricción.
-Describe tu comida o toma una foto. Mushu registra la comida de forma natural, sin convertir la nutrición en una hoja de cálculo.
+### [Voysse](https://voysse.cl) — agentes de IA open-source para agencias
 
-**Violet** — Finanzas personales que se sienten naturales.
-Registra gastos en lenguaje natural. Violet organiza tu vida financiera sin la complejidad habitual de las apps de dinero.
+Un workspace multi-tenant: una agencia crea agentes de IA, le da a cada cliente un portal con su propia marca, y conversa con los usuarios finales por WhatsApp o un widget de chat embebible. Trae tu propia key de OpenAI / Anthropic y auto-hospeda todo el stack con un solo comando.
 
-**Trabajo** —
+<p>
+  <a href="https://voysse.cl">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Sitio-voysse.cl-78a7ff?style=flat-square&labelColor=78a7ff&logoColor=071a3d" />
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Sitio-voysse.cl-1748c7?style=flat-square&labelColor=1748c7&logoColor=fffdf7" />
+      <img src="https://img.shields.io/badge/Sitio-voysse.cl-1748c7?style=flat-square&labelColor=1748c7" alt="voysse.cl" />
+    </picture>
+  </a>
+  <a href="https://docs.voysse.cl">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Docs-docs.voysse.cl-78a7ff?style=flat-square&labelColor=78a7ff" />
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Docs-docs.voysse.cl-1748c7?style=flat-square&labelColor=1748c7" />
+      <img src="https://img.shields.io/badge/Docs-docs.voysse.cl-1748c7?style=flat-square&labelColor=1748c7" alt="docs.voysse.cl" />
+    </picture>
+  </a>
+  <a href="https://github.com/kanazawa-dev/voysse">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/stars/kanazawa-dev/voysse?style=flat-square&color=78a7ff&labelColor=071a3d" />
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/stars/kanazawa-dev/voysse?style=flat-square&color=1748c7&labelColor=faf7ef" />
+      <img src="https://img.shields.io/github/stars/kanazawa-dev/voysse?style=flat-square&color=1748c7&labelColor=faf7ef" alt="Voysse stars" />
+    </picture>
+  </a>
+</p>
+
+**También construyendo** — **Mushu**, registro de comidas con IA sin fricción, y **Violet**, finanzas personales que se sienten naturales.
+
+**Trabajo y otras contribuciones** —
 - **Karibu** · Fullstack Engineer — aplicaciones web escalables en TypeScript, React y NestJS.
 - **Portal de Especialistas** · CTO — ingeniería, arquitectura y producto de un marketplace que conecta hogares con especialistas de confianza.
-
-**Titvo** — Contribuyo a seguridad de código con IA en [Karibu](https://github.com/KaribuLab). [titvo.com](https://titvo.com) · [repo](https://github.com/KaribuLab/titvo-security-scan)
+- **Titvo** · Contribuyo a seguridad de código con IA. [titvo.com](https://titvo.com) · [repo](https://github.com/KaribuLab/titvo-security-scan)
 
 ---
 
@@ -105,30 +128,37 @@ Registra gastos en lenguaje natural. Violet organiza tu vida financiera sin la c
 ### Conectemos
 
 <p>
+  <a href="https://voysse.cl">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Construyendo-Voysse-78a7ff?style=flat-square&logoColor=071a3d&labelColor=78a7ff" />
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Construyendo-Voysse-1748c7?style=flat-square&logoColor=fffdf7&labelColor=1748c7" />
+      <img src="https://img.shields.io/badge/Construyendo-Voysse-1748c7?style=flat-square&logoColor=fffdf7&labelColor=1748c7" alt="Construyendo Voysse" />
+    </picture>
+  </a>
   <a href="https://alexelgueta.me">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Website-alexelgueta.me-ffffff?style=flat-square&logo=safari&logoColor=000000&labelColor=ffffff" />
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Website-alexelgueta.me-000000?style=flat-square&logo=safari&logoColor=ffffff&labelColor=000000" />
-      <img src="https://img.shields.io/badge/Website-alexelgueta.me-000000?style=flat-square&logo=safari&logoColor=ffffff&labelColor=000000" alt="Sitio web" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Website-alexelgueta.me-78a7ff?style=flat-square&logo=safari&logoColor=071a3d&labelColor=78a7ff" />
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Website-alexelgueta.me-1748c7?style=flat-square&logo=safari&logoColor=fffdf7&labelColor=1748c7" />
+      <img src="https://img.shields.io/badge/Website-alexelgueta.me-1748c7?style=flat-square&logo=safari&logoColor=fffdf7&labelColor=1748c7" alt="Sitio web" />
     </picture>
   </a>
   <a href="https://github.com/kanazawa-dev">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GitHub-kanazawa--dev-ffffff?style=flat-square&logo=github&logoColor=000000&labelColor=ffffff" />
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/GitHub-kanazawa--dev-000000?style=flat-square&logo=github&logoColor=ffffff&labelColor=000000" />
-      <img src="https://img.shields.io/badge/GitHub-kanazawa--dev-000000?style=flat-square&logo=github&logoColor=ffffff&labelColor=000000" alt="GitHub" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GitHub-kanazawa--dev-78a7ff?style=flat-square&logo=github&logoColor=071a3d&labelColor=78a7ff" />
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/GitHub-kanazawa--dev-1748c7?style=flat-square&logo=github&logoColor=fffdf7&labelColor=1748c7" />
+      <img src="https://img.shields.io/badge/GitHub-kanazawa--dev-1748c7?style=flat-square&logo=github&logoColor=fffdf7&labelColor=1748c7" alt="GitHub" />
     </picture>
   </a>
   <a href="https://twitter.com/AlexElguetaDev">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/X-@AlexElguetaDev-ffffff?style=flat-square&logo=x&logoColor=000000&labelColor=ffffff" />
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/X-@AlexElguetaDev-000000?style=flat-square&logo=x&logoColor=ffffff&labelColor=000000" />
-      <img src="https://img.shields.io/badge/X-@AlexElguetaDev-000000?style=flat-square&logo=x&logoColor=ffffff&labelColor=000000" alt="X / Twitter" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/X-@AlexElguetaDev-78a7ff?style=flat-square&logo=x&logoColor=071a3d&labelColor=78a7ff" />
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/X-@AlexElguetaDev-1748c7?style=flat-square&logo=x&logoColor=fffdf7&labelColor=1748c7" />
+      <img src="https://img.shields.io/badge/X-@AlexElguetaDev-1748c7?style=flat-square&logo=x&logoColor=fffdf7&labelColor=1748c7" alt="X / Twitter" />
     </picture>
   </a>
 </p>
 
-<sub>Construido bajo Kanazawa · Los Ángeles, Chile</sub>
+<sub>Construyendo Voysse · Los Ángeles, Chile</sub>
 
 </div>
 
