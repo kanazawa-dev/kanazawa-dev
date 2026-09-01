@@ -3,7 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=transparent&height=140&text=Alex%20Elgueta&fontSize=68&fontColor=78a7ff&fontAlignY=42&desc=AI%20Software%20Engineer%20%C2%B7%20Indie%20Builder&descSize=18&descColor=aaaaaa&descAlignY=78" />
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=transparent&height=140&text=Alex%20Elgueta&fontSize=68&fontColor=1748c7&fontAlignY=42&desc=AI%20Software%20Engineer%20%C2%B7%20Indie%20Builder&descSize=18&descColor=666666&descAlignY=78" />
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=140&text=Alex%20Elgueta&fontSize=68&fontColor=1748c7&fontAlignY=42&desc=AI%20Software%20Engineer%20%C2%B7%20Indie%20Builder&descSize=18&descColor=666666&descAlignY=78" alt="Alex Elgueta — AI Software Engineer & Indie Builder" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=140&text=Alex%20Elgueta&fontSize=68&fontColor=1748c7&fontAlignY=42&desc=AI%20Software%20Engineer%20%C2%B7%20Indie%20Builder&descSize=18&descColor=666666&descAlignY=78" alt="Alex Elgueta, AI Software Engineer and Indie Builder" />
 </picture>
 
 > **Ship something people actually use.**
@@ -49,16 +49,16 @@
 
 ## Hi, I'm Alex
 
-AI software engineer. I build products end-to-end — from the model calls down to the DNS records — and ship them myself instead of waiting for a roadmap.
+AI software engineer. I build products end to end, from the model calls down to the DNS records, and I'd rather ship them myself than wait around for a roadmap.
 
-Right now that means **[Voysse](https://voysse.cl)**, full-time indie: an open-source, white-label platform for agencies to build, run and manage AI agents for their clients over WhatsApp and web chat. I also keep one foot in a day job at **Karibu**.
+Right now that means working full-time indie on **[Voysse](https://voysse.cl)**, an open-source, white-label platform for agencies to build, run and manage AI agents for their clients over WhatsApp and web chat. I also keep one foot in a day job at **Karibu**.
 
 ```ts
 const alex = {
   aka: "Kanazawa",
   location: "Los Ángeles, Chile",
 
-  building: "Voysse — open-source AI agents for agencies",
+  building: "Voysse, open-source AI agents for agencies",
   dayJob: "Fullstack Engineer @ Karibu",
   leadership: "CTO @ Portal de Especialistas",
 
@@ -86,7 +86,7 @@ const alex = {
 
 ## Building
 
-### [Voysse](https://voysse.cl) — open-source AI agents for agencies
+### [Voysse](https://voysse.cl) · open-source AI agents for agencies
 
 A multi-tenant workspace: an agency creates AI agents, gives each client a branded portal, and talks to end users over WhatsApp or an embeddable web chat widget. Bring your own OpenAI / Anthropic key, self-host the whole stack with one command.
 
@@ -114,7 +114,7 @@ A multi-tenant workspace: an agency creates AI agents, gives each client a brand
   </a>
 </p>
 
-### [Titvo](https://titvo.com) — AI-powered code security
+### [Titvo](https://titvo.com) · AI-powered code security
 
 I contribute to Titvo at Karibu: AI that reviews your code for security issues before it ships.
 
@@ -135,11 +135,11 @@ I contribute to Titvo at Karibu: AI that reviews your code for security issues b
   </a>
 </p>
 
-**Also building** — **Mushu**, AI food tracking without the friction, and **Violet**, personal finance that feels effortless.
+I'm also building **Mushu**, AI food tracking without the friction, and **Violet**, personal finance that feels effortless.
 
-**Day job** —
-- **Karibu** · Fullstack Engineer — scalable web apps in TypeScript, React and NestJS.
-- **Portal de Especialistas** · CTO — engineering, architecture and product for a marketplace connecting homeowners with trusted specialists.
+**Day job:**
+- **Karibu** · Fullstack Engineer, building scalable web apps in TypeScript, React and NestJS.
+- **Portal de Especialistas** · CTO, handling engineering, architecture and product for a marketplace that connects homeowners with trusted specialists.
 
 ---
 
@@ -185,7 +185,7 @@ I contribute to Titvo at Karibu: AI that reviews your code for security issues b
 ---
 
 <details>
-<summary>Easter egg — contribution snake</summary>
+<summary>Easter egg, the contribution snake</summary>
 <br />
 
 <div align="center">

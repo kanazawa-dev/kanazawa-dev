@@ -3,7 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=transparent&height=140&text=Alex%20Elgueta&fontSize=68&fontColor=78a7ff&fontAlignY=42&desc=AI%20Software%20Engineer%20%C2%B7%20Indie%20Builder&descSize=18&descColor=aaaaaa&descAlignY=78" />
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=transparent&height=140&text=Alex%20Elgueta&fontSize=68&fontColor=1748c7&fontAlignY=42&desc=AI%20Software%20Engineer%20%C2%B7%20Indie%20Builder&descSize=18&descColor=666666&descAlignY=78" />
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=140&text=Alex%20Elgueta&fontSize=68&fontColor=1748c7&fontAlignY=42&desc=AI%20Software%20Engineer%20%C2%B7%20Indie%20Builder&descSize=18&descColor=666666&descAlignY=78" alt="Alex Elgueta — AI Software Engineer e Indie Builder" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=140&text=Alex%20Elgueta&fontSize=68&fontColor=1748c7&fontAlignY=42&desc=AI%20Software%20Engineer%20%C2%B7%20Indie%20Builder&descSize=18&descColor=666666&descAlignY=78" alt="Alex Elgueta, AI Software Engineer e Indie Builder" />
 </picture>
 
 > **Publica algo que la gente realmente use.**
@@ -49,16 +49,16 @@
 
 ## Hola, soy Alex
 
-Ingeniero de software especializado en IA. Construyo productos de punta a punta — desde las llamadas al modelo hasta los registros DNS — y los publico yo mismo en vez de esperar un roadmap.
+Ingeniero de software especializado en IA. Construyo productos de punta a punta, desde las llamadas al modelo hasta los registros DNS, y prefiero publicarlos yo mismo antes que esperar un roadmap.
 
-Hoy en día eso significa **[Voysse](https://voysse.cl)**, a tiempo completo como indie: una plataforma open-source y white-label para que agencias creen, operen y administren agentes de IA para sus clientes por WhatsApp y web chat. También mantengo un pie en un trabajo de día en **Karibu**.
+Hoy en día eso significa trabajar a tiempo completo como indie en **[Voysse](https://voysse.cl)**, una plataforma open-source y white-label para que agencias creen, operen y administren agentes de IA para sus clientes por WhatsApp y web chat. También mantengo un pie en un trabajo de día en **Karibu**.
 
 ```ts
 const alex = {
   apodo: "Kanazawa",
   ubicacion: "Los Ángeles, Chile",
 
-  construyendo: "Voysse — agentes de IA open-source para agencias",
+  construyendo: "Voysse, agentes de IA open-source para agencias",
   trabajo: "Fullstack Engineer en Karibu",
   liderazgo: "CTO en Portal de Especialistas",
 
@@ -86,7 +86,7 @@ const alex = {
 
 ## En lo que trabajo
 
-### [Voysse](https://voysse.cl) — agentes de IA open-source para agencias
+### [Voysse](https://voysse.cl) · agentes de IA open-source para agencias
 
 Un workspace multi-tenant: una agencia crea agentes de IA, le da a cada cliente un portal con su propia marca, y conversa con los usuarios finales por WhatsApp o un widget de chat embebible. Trae tu propia key de OpenAI / Anthropic y auto-hospeda todo el stack con un solo comando.
 
@@ -114,7 +114,7 @@ Un workspace multi-tenant: una agencia crea agentes de IA, le da a cada cliente 
   </a>
 </p>
 
-### [Titvo](https://titvo.com) — seguridad de código con IA
+### [Titvo](https://titvo.com) · seguridad de código con IA
 
 Contribuyo en Titvo, dentro de Karibu: una IA que revisa tu código en busca de fallas de seguridad antes de que salga a producción.
 
@@ -135,11 +135,11 @@ Contribuyo en Titvo, dentro de Karibu: una IA que revisa tu código en busca de 
   </a>
 </p>
 
-**También construyendo** — **Mushu**, registro de comidas con IA sin fricción, y **Violet**, finanzas personales que se sienten naturales.
+También estoy construyendo **Mushu**, registro de comidas con IA sin fricción, y **Violet**, finanzas personales que se sienten naturales.
 
-**Trabajo** —
-- **Karibu** · Fullstack Engineer — aplicaciones web escalables en TypeScript, React y NestJS.
-- **Portal de Especialistas** · CTO — ingeniería, arquitectura y producto de un marketplace que conecta hogares con especialistas de confianza.
+**Trabajo:**
+- **Karibu** · Fullstack Engineer, construyendo aplicaciones web escalables en TypeScript, React y NestJS.
+- **Portal de Especialistas** · CTO, a cargo de ingeniería, arquitectura y producto para un marketplace que conecta hogares con especialistas de confianza.
 
 ---
 
@@ -185,7 +185,7 @@ Contribuyo en Titvo, dentro de Karibu: una IA que revisa tu código en busca de 
 ---
 
 <details>
-<summary>Huevo de pascua — snake de contribuciones</summary>
+<summary>Huevo de pascua, el snake de contribuciones</summary>
 <br />
 
 <div align="center">
