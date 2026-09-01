@@ -49,9 +49,9 @@
 
 ## Hi, I'm Alex
 
-AI software engineer. I build products end to end, from the model calls down to the DNS records, and I'd rather ship them myself than wait around for a roadmap.
+AI software engineer, but really I'm just someone who ships. I build the whole thing myself, from the first API call to the DNS record that makes it live, and I'd rather have real users than a roadmap slide.
 
-Right now that means **[Voysse](https://voysse.cl)**, an open-source, white-label platform for agencies to build, run and manage AI agents for their clients over WhatsApp and web chat. I also keep one foot in a day job at **Karibu**, and outside of that the split is roughly 70% Voysse, 30% **[Titvo](https://titvo.com)**.
+Right now that means going full-time indie on **[Voysse](https://voysse.cl)**, an open-source, white-label platform where agencies spin up AI agents for their clients on WhatsApp and web chat, their brand, their data, self-hosted. I still keep a foot in a day job at **Karibu**, and split what's left about 70% on Voysse, 30% on **[Titvo](https://titvo.com)**.
 
 ```ts
 const alex = {
@@ -89,7 +89,7 @@ const alex = {
 
 ### [Voysse](https://voysse.cl) · open-source AI agents for agencies
 
-A multi-tenant workspace: an agency creates AI agents, gives each client a branded portal, and talks to end users over WhatsApp or an embeddable web chat widget. Bring your own OpenAI / Anthropic key, self-host the whole stack with one command.
+Give every client of your agency their own AI agent, not a generic chatbot with your logo stuck on it. Each client gets a branded portal, agents talk to end users over WhatsApp or an embeddable web chat widget, and you bring your own OpenAI or Anthropic key. Self-host the whole stack with one command. It's yours, not a black box someone else can shut down.
 
 <p>
   <a href="https://voysse.cl">
@@ -117,7 +117,7 @@ A multi-tenant workspace: an agency creates AI agents, gives each client a brand
 
 ### [Titvo](https://titvo.com) · AI-powered code security
 
-I contribute to Titvo at Karibu: AI that reviews your code for security issues before it ships.
+Code review that catches the security bugs before they ship, not after someone finds them for you. I help build it at Karibu.
 
 <p>
   <a href="https://titvo.com">
@@ -136,7 +136,7 @@ I contribute to Titvo at Karibu: AI that reviews your code for security issues b
   </a>
 </p>
 
-I'm also building **Mushu**, AI food tracking without the friction, and **Violet**, personal finance that feels effortless.
+I'm also building **Mushu**, AI food tracking without the friction, and **Violet**, personal finance that finally feels effortless instead of like homework.
 
 **Day job:**
 - **Karibu** · Fullstack Engineer, building scalable web apps in TypeScript, React and NestJS.

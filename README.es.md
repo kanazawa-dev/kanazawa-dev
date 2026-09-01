@@ -49,9 +49,9 @@
 
 ## Hola, soy Alex
 
-Ingeniero de software especializado en IA. Construyo productos de punta a punta, desde las llamadas al modelo hasta los registros DNS, y prefiero publicarlos yo mismo antes que esperar un roadmap.
+Ingeniero de software especializado en IA, aunque en realidad soy solo alguien que publica cosas. Construyo todo yo mismo, desde la primera llamada a la API hasta el registro DNS que lo pone en línea, y prefiero tener usuarios reales antes que una diapositiva con un roadmap.
 
-Hoy en día eso significa **[Voysse](https://voysse.cl)**, una plataforma open-source y white-label para que agencias creen, operen y administren agentes de IA para sus clientes por WhatsApp y web chat. También mantengo un pie en un trabajo de día en **Karibu**, y fuera de eso el tiempo se reparte más o menos 70% Voysse y 30% **[Titvo](https://titvo.com)**.
+Hoy en día eso significa ir full-time como indie en **[Voysse](https://voysse.cl)**, una plataforma open-source y white-label donde las agencias arman agentes de IA para sus clientes por WhatsApp y web chat, con su marca, sus datos, auto-hospedado. Sigo con un pie en un trabajo de día en **Karibu**, y lo que queda se reparte más o menos 70% en Voysse y 30% en **[Titvo](https://titvo.com)**.
 
 ```ts
 const alex = {
@@ -89,7 +89,7 @@ const alex = {
 
 ### [Voysse](https://voysse.cl) · agentes de IA open-source para agencias
 
-Un workspace multi-tenant: una agencia crea agentes de IA, le da a cada cliente un portal con su propia marca, y conversa con los usuarios finales por WhatsApp o un widget de chat embebible. Trae tu propia key de OpenAI / Anthropic y auto-hospeda todo el stack con un solo comando.
+Dale a cada cliente de tu agencia su propio agente de IA, no un chatbot genérico con tu logo pegado encima. Cada cliente tiene su portal con su marca, los agentes conversan con los usuarios finales por WhatsApp o un widget de chat embebible, y traes tu propia key de OpenAI o Anthropic. Auto-hospeda todo el stack con un solo comando. Es tuyo, no una caja negra que alguien más puede apagar.
 
 <p>
   <a href="https://voysse.cl">
@@ -117,7 +117,7 @@ Un workspace multi-tenant: una agencia crea agentes de IA, le da a cada cliente 
 
 ### [Titvo](https://titvo.com) · seguridad de código con IA
 
-Contribuyo en Titvo, dentro de Karibu: una IA que revisa tu código en busca de fallas de seguridad antes de que salga a producción.
+Revisión de código que atrapa las fallas de seguridad antes de que salgan a producción, no después de que alguien más las encuentre por ti. Ayudo a construirlo en Karibu.
 
 <p>
   <a href="https://titvo.com">
@@ -136,7 +136,7 @@ Contribuyo en Titvo, dentro de Karibu: una IA que revisa tu código en busca de 
   </a>
 </p>
 
-También estoy construyendo **Mushu**, registro de comidas con IA sin fricción, y **Violet**, finanzas personales que se sienten naturales.
+También estoy construyendo **Mushu**, registro de comidas con IA sin fricción, y **Violet**, finanzas personales que por fin se sienten fáciles y no como una tarea.
 
 **Trabajo:**
 - **Karibu** · Fullstack Engineer, construyendo aplicaciones web escalables en TypeScript, React y NestJS.
