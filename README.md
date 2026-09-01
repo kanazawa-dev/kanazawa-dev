@@ -51,7 +51,7 @@
 
 AI software engineer. I build products end to end, from the model calls down to the DNS records, and I'd rather ship them myself than wait around for a roadmap.
 
-Right now that means working full-time indie on **[Voysse](https://voysse.cl)**, an open-source, white-label platform for agencies to build, run and manage AI agents for their clients over WhatsApp and web chat. I also keep one foot in a day job at **Karibu**.
+Right now that means **[Voysse](https://voysse.cl)**, an open-source, white-label platform for agencies to build, run and manage AI agents for their clients over WhatsApp and web chat. I also keep one foot in a day job at **Karibu**, and outside of that the split is roughly 70% Voysse, 30% **[Titvo](https://titvo.com)**.
 
 ```ts
 const alex = {
@@ -61,6 +61,7 @@ const alex = {
   building: "Voysse, open-source AI agents for agencies",
   dayJob: "Fullstack Engineer @ Karibu",
   leadership: "CTO @ Portal de Especialistas",
+  outsideKaribu: { voysse: "70%", titvo: "30%" },
 
   focus: [
     "AI-powered products",

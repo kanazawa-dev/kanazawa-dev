@@ -51,7 +51,7 @@
 
 Ingeniero de software especializado en IA. Construyo productos de punta a punta, desde las llamadas al modelo hasta los registros DNS, y prefiero publicarlos yo mismo antes que esperar un roadmap.
 
-Hoy en día eso significa trabajar a tiempo completo como indie en **[Voysse](https://voysse.cl)**, una plataforma open-source y white-label para que agencias creen, operen y administren agentes de IA para sus clientes por WhatsApp y web chat. También mantengo un pie en un trabajo de día en **Karibu**.
+Hoy en día eso significa **[Voysse](https://voysse.cl)**, una plataforma open-source y white-label para que agencias creen, operen y administren agentes de IA para sus clientes por WhatsApp y web chat. También mantengo un pie en un trabajo de día en **Karibu**, y fuera de eso el tiempo se reparte más o menos 70% Voysse y 30% **[Titvo](https://titvo.com)**.
 
 ```ts
 const alex = {
@@ -61,6 +61,7 @@ const alex = {
   construyendo: "Voysse, agentes de IA open-source para agencias",
   trabajo: "Fullstack Engineer en Karibu",
   liderazgo: "CTO en Portal de Especialistas",
+  fueraDeKaribu: { voysse: "70%", titvo: "30%" },
 
   enfoque: [
     "Productos con IA",
