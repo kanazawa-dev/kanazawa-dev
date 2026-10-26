@@ -9,11 +9,11 @@
 > **Ship something people actually use.**
 
 <p>
-  <a href="https://voysse.cl">
+  <a href="https://comunios.cl">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Building-Voysse-78a7ff?style=flat-square&logoColor=071a3d&labelColor=78a7ff" />
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Building-Voysse-1748c7?style=flat-square&logoColor=fffdf7&labelColor=1748c7" />
-      <img src="https://img.shields.io/badge/Building-Voysse-1748c7?style=flat-square&logoColor=fffdf7&labelColor=1748c7" alt="Building Voysse" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Building-ComuniOS-78a7ff?style=flat-square&logoColor=071a3d&labelColor=78a7ff" />
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Building-ComuniOS-1748c7?style=flat-square&logoColor=fffdf7&labelColor=1748c7" />
+      <img src="https://img.shields.io/badge/Building-ComuniOS-1748c7?style=flat-square&logoColor=fffdf7&labelColor=1748c7" alt="Building ComuniOS" />
     </picture>
   </a>
   <a href="https://alexelgueta.me">
@@ -49,98 +49,66 @@
 
 ## Hi, I'm Alex
 
-AI software engineer, but really I'm just someone who ships. I build the whole thing myself, from the first API call to the DNS record that makes it live, and I'd rather have real users than a roadmap slide.
+I'm a software engineer and product builder based in **Los Ángeles, Chile**. I build products end to end: architecture, backend, interfaces, and the infrastructure that gets them into people's hands.
 
-Right now that means going full-time indie on **[Voysse](https://voysse.cl)**, an open-source, white-label platform where agencies spin up AI agents for their clients on WhatsApp and web chat, their brand, their data, self-hosted. I still keep a foot in a day job at **Karibu**, and split what's left about 70% on Voysse, 30% on **[Titvo](https://titvo.com)**.
+My main focus is **[ComuniOS](https://comunios.cl)**, where I'm **Founder, CEO & CTO**. I lead the product and engineering, building software that makes running a residential community simpler and more transparent.
 
-```ts
-const alex = {
-  aka: "Kanazawa",
-  location: "Los Ángeles, Chile",
+## Main focus · [ComuniOS](https://comunios.cl)
 
-  building: "Voysse, open-source AI agents for agencies",
-  dayJob: "Fullstack Engineer @ Karibu",
-  leadership: "CTO @ Portal de Especialistas",
-  outsideKaribu: { voysse: "70%", titvo: "30%" },
+### Less chaos. More community.
 
-  focus: [
-    "AI-powered products",
-    "Clean architecture",
-    "Shipping over planning",
-  ],
+<table>
+  <tr>
+    <th>Administration</th>
+    <th>Concierge web</th>
+    <th>Residents web</th>
+  </tr>
+  <tr>
+    <td width="64%" align="center" valign="top"><a href="https://comunios.cl"><img src="./assets/comunios-administration.jpg" width="100%" alt="ComuniOS administration dashboard with portfolio overview and financial indicators" /></a></td>
+    <td width="18%" align="center" valign="top"><a href="https://comunios.cl"><img src="./assets/comunios-concierge.jpg" width="100%" alt="Concierge web · ComuniOS" /></a></td>
+    <td width="18%" align="center" valign="top"><a href="https://comunios.cl"><img src="./assets/comunios-residents.jpg" width="100%" alt="Residents web · ComuniOS" /></a></td>
+  </tr>
+</table>
 
-  stack: {
-    loves:   ["TypeScript", "Python", "Rust"],
-    builds:  ["Next.js", "FastAPI", "PostgreSQL", "Docker"],
-    ships:   ["Railway", "Vercel", "AWS", "Cloudflare"],
-  },
+<sub>Product screenshots from the ComuniOS website.</sub>
 
-  believes: [
-    "Simple beats complex",
-    "Ship > Perfect",
-    "Own your stack",
-  ],
-};
-```
+**One platform for condominium and residential building management in Chile.** ComuniOS brings together the work that usually lives across spreadsheets, folders, and WhatsApp groups, with dedicated web spaces for administration, concierge staff, and residents.
+
+- **Clearer finances:** common expense billing, online payments, bank reconciliation, accounting, and reporting to the management committee.
+- **Everyday operations:** visitor and parcel logs, shared-space reservations, requests, and community announcements.
+- **A connected community:** administrators manage the building, concierge staff handle daily operations, and residents check their balance, pay, and stay informed.
+- **AI with context:** an assistant that answers questions using community data, with each person accessing only the information relevant to their role.
+
+Built for Chilean communities, with workflows designed around **Law 21.442 on condominium co-ownership**. Available on the web from a phone or computer; native iOS and Android apps are coming next.
+
+It started with the lack of transparency in my own building. I'm building it with my neighbor, Francisco Urzúa: we share the same community and the problems we're solving.
+
+**My role:** product vision, software architecture, and end-to-end development across the administration, resident, and concierge experiences.
+
+**[Explore ComuniOS →](https://comunios.cl)** · [Meet the team](https://comunios.cl/equipo) · [Why I built it](https://comunios.cl/blog/por-que-cree-comunios)
 
 ---
 
-## Building
+## Other products
 
-### [Voysse](https://voysse.cl) · open-source AI agents for agencies
+| Project | What it does | Links |
+| --- | --- | --- |
+| **Voysse** | Open-source, white-label AI agents for agencies, with WhatsApp and web chat, branded client portals, and self-hosting. | [Website](https://voysse.cl) · [Docs](https://docs.voysse.cl) · [Code](https://github.com/kanazawa-dev/voysse) |
+| **Titvo** | AI-powered code security review. I help build it at Karibu. | [Website](https://titvo.com) · [Code](https://github.com/KaribuLab/titvo-security-scan) |
+| **Mushu** | AI-assisted food tracking with less friction. | — |
+| **Violet** | Simpler personal finance. | — |
 
-Give every client of your agency their own AI agent, not a generic chatbot with your logo stuck on it. Each client gets a branded portal, agents talk to end users over WhatsApp or an embeddable web chat widget, and you bring your own OpenAI or Anthropic key. Self-host the whole stack with one command. It's yours, not a black box someone else can shut down.
+## Engineering & experience
 
-<p>
-  <a href="https://voysse.cl">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Site-voysse.cl-78a7ff?style=flat-square&labelColor=78a7ff&logoColor=071a3d" />
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Site-voysse.cl-1748c7?style=flat-square&labelColor=1748c7&logoColor=fffdf7" />
-      <img src="https://img.shields.io/badge/Site-voysse.cl-1748c7?style=flat-square&labelColor=1748c7" alt="voysse.cl" />
-    </picture>
-  </a>
-  <a href="https://docs.voysse.cl">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Docs-docs.voysse.cl-78a7ff?style=flat-square&labelColor=78a7ff" />
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Docs-docs.voysse.cl-1748c7?style=flat-square&labelColor=1748c7" />
-      <img src="https://img.shields.io/badge/Docs-docs.voysse.cl-1748c7?style=flat-square&labelColor=1748c7" alt="docs.voysse.cl" />
-    </picture>
-  </a>
-  <a href="https://github.com/kanazawa-dev/voysse">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/stars/kanazawa-dev/voysse?style=flat-square&color=78a7ff&labelColor=071a3d" />
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/stars/kanazawa-dev/voysse?style=flat-square&color=1748c7&labelColor=faf7ef" />
-      <img src="https://img.shields.io/github/stars/kanazawa-dev/voysse?style=flat-square&color=1748c7&labelColor=faf7ef" alt="Voysse stars" />
-    </picture>
-  </a>
-</p>
+**Languages:** TypeScript, Python, Rust<br />
+**Building with:** React, Next.js, NestJS, FastAPI, PostgreSQL, Docker<br />
+**Shipping on:** Railway, Vercel, AWS, Cloudflare
 
-### [Titvo](https://titvo.com) · AI-powered code security
+- **ComuniOS · Founder, CEO & CTO:** product and technology for residential communities.
+- **Karibu · Fullstack Engineer:** scalable web applications and AI-powered products.
+- **Previously, Portal de Especialistas · CTO:** engineering, architecture, and product for a marketplace connecting homeowners with specialists.
 
-Code review that catches the security bugs before they ship, not after someone finds them for you. I help build it at Karibu.
-
-<p>
-  <a href="https://titvo.com">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Site-titvo.com-78a7ff?style=flat-square&labelColor=78a7ff&logoColor=071a3d" />
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Site-titvo.com-1748c7?style=flat-square&labelColor=1748c7&logoColor=fffdf7" />
-      <img src="https://img.shields.io/badge/Site-titvo.com-1748c7?style=flat-square&labelColor=1748c7" alt="titvo.com" />
-    </picture>
-  </a>
-  <a href="https://github.com/KaribuLab/titvo-security-scan">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/stars/KaribuLab/titvo-security-scan?style=flat-square&color=78a7ff&labelColor=071a3d" />
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/stars/KaribuLab/titvo-security-scan?style=flat-square&color=1748c7&labelColor=faf7ef" />
-      <img src="https://img.shields.io/github/stars/KaribuLab/titvo-security-scan?style=flat-square&color=1748c7&labelColor=faf7ef" alt="Titvo stars" />
-    </picture>
-  </a>
-</p>
-
-I'm also building **Mushu**, AI food tracking without the friction, and **Violet**, personal finance that finally feels effortless instead of like homework.
-
-**Day job:**
-- **Karibu** · Fullstack Engineer, building scalable web apps in TypeScript, React and NestJS.
-- **Portal de Especialistas** · CTO, handling engineering, architecture and product for a marketplace that connects homeowners with trusted specialists.
+I value simple systems, clean architecture, and shipping useful software.
 
 ---
 
@@ -148,38 +116,9 @@ I'm also building **Mushu**, AI food tracking without the friction, and **Violet
 
 ### Let's connect
 
-<p>
-  <a href="https://voysse.cl">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Building-Voysse-78a7ff?style=flat-square&logoColor=071a3d&labelColor=78a7ff" />
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Building-Voysse-1748c7?style=flat-square&logoColor=fffdf7&labelColor=1748c7" />
-      <img src="https://img.shields.io/badge/Building-Voysse-1748c7?style=flat-square&logoColor=fffdf7&labelColor=1748c7" alt="Building Voysse" />
-    </picture>
-  </a>
-  <a href="https://alexelgueta.me">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Website-alexelgueta.me-78a7ff?style=flat-square&logo=safari&logoColor=071a3d&labelColor=78a7ff" />
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Website-alexelgueta.me-1748c7?style=flat-square&logo=safari&logoColor=fffdf7&labelColor=1748c7" />
-      <img src="https://img.shields.io/badge/Website-alexelgueta.me-1748c7?style=flat-square&logo=safari&logoColor=fffdf7&labelColor=1748c7" alt="Website" />
-    </picture>
-  </a>
-  <a href="https://github.com/kanazawa-dev">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GitHub-kanazawa--dev-78a7ff?style=flat-square&logo=github&logoColor=071a3d&labelColor=78a7ff" />
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/GitHub-kanazawa--dev-1748c7?style=flat-square&logo=github&logoColor=fffdf7&labelColor=1748c7" />
-      <img src="https://img.shields.io/badge/GitHub-kanazawa--dev-1748c7?style=flat-square&logo=github&logoColor=fffdf7&labelColor=1748c7" alt="GitHub" />
-    </picture>
-  </a>
-  <a href="https://twitter.com/AlexElguetaDev">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/X-@AlexElguetaDev-78a7ff?style=flat-square&logo=x&logoColor=071a3d&labelColor=78a7ff" />
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/X-@AlexElguetaDev-1748c7?style=flat-square&logo=x&logoColor=fffdf7&labelColor=1748c7" />
-      <img src="https://img.shields.io/badge/X-@AlexElguetaDev-1748c7?style=flat-square&logo=x&logoColor=fffdf7&labelColor=1748c7" alt="X / Twitter" />
-    </picture>
-  </a>
-</p>
+[ComuniOS](https://comunios.cl) · [Personal website](https://alexelgueta.me) · [X / Twitter](https://twitter.com/AlexElguetaDev)
 
-<sub>Building Voysse · Los Ángeles, Chile</sub>
+<sub>Building ComuniOS · Los Ángeles, Chile</sub>
 
 </div>
 
