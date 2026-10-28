@@ -54,9 +54,11 @@
 
 ---
 
-## My startup · [ComuniOS](https://comunios.cl)
+<div align="center">
 
-### Less chaos. More community.
+### `~/startup` · [ComuniOS](https://comunios.cl)
+
+<sub>Less chaos. More community. One platform for condominium management in Chile, where I'm <b>Founder, CEO &amp; CTO</b>.</sub>
 
 <table>
   <tr>
@@ -71,21 +73,11 @@
   </tr>
 </table>
 
-**One platform for condominium management in Chile**, replacing spreadsheets and WhatsApp groups with dedicated spaces for administrators, concierge staff, and residents. I'm **Founder, CEO & CTO**, building it with my neighbor Francisco Urzúa after living the lack of transparency in our own building.
+<b><a href="https://comunios.cl">Explore ComuniOS →</a></b> · <a href="https://comunios.cl/blog/por-que-cree-comunios">Why I built it</a>
 
-**What's interesting under the hood:**
+### `~/projects`
 
-- **Multi-role platform:** one domain, three experiences (administration, concierge, residents) with role-scoped access.
-- **AI with boundaries:** an assistant that answers from community data and only sees what each role is allowed to see.
-- **Money flows:** common expense billing, online payments, and bank reconciliation designed around Chile's Law 21.442.
-
-**[Explore ComuniOS →](https://comunios.cl)** · [Meet the team](https://comunios.cl/equipo) · [Why I built it](https://comunios.cl/blog/por-que-cree-comunios)
-
----
-
-## AI products
-
-<p align="center">
+<p>
   <a href="https://github.com/kanazawa-dev/voysse">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?description_lines_count=3&bg_color=00000000&title_color=78a7ff&icon_color=78a7ff&text_color=c9d1d9&border_color=30363d&username=kanazawa-dev&repo=voysse" />
@@ -101,17 +93,7 @@
     </picture>
   </a>
 </p>
-
-- **[Voysse](https://voysse.cl):** white-label AI agents for agencies, with WhatsApp, web chat, client portals, RAG, and MCP tools. Self-host it or use Voysse Cloud. [Docs](https://docs.voysse.cl)
-- **[Titvo](https://titvo.com):** AI-powered code security review, built at Karibu, my main job, where I work as a Fullstack Engineer.
-
-<sub>Also cooking: **Mushu** (AI-assisted food tracking) and **Violet** (simpler personal finance).</sub>
-
-## Open source I contribute to
-
-Excited to be a contributor to both:
-
-<p align="center">
+<p>
   <a href="https://github.com/cristicretu/diri">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?description_lines_count=3&bg_color=00000000&title_color=78a7ff&icon_color=78a7ff&text_color=c9d1d9&border_color=30363d&username=cristicretu&repo=diri&show_owner=true" />
@@ -128,18 +110,17 @@ Excited to be a contributor to both:
   </a>
 </p>
 
-- **[diri](https://github.com/cristicretu/diri):** the best way to work with coding agents. Run fifty in parallel and review everything in one place.
-- **[Defi](https://github.com/qeude/Defi):** a fast, native scrollable-tiling window manager for macOS, inspired by Niri.
+<sub><b>Voysse</b> is mine · <b>Titvo</b> is built at Karibu, my main job · Proud contributor to <b>diri</b> and <b>Defi</b></sub>
 
-## GitHub activity
+### `~/activity`
 
-<p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=kanazawa-dev&hide_border=true&background=00000000&ring=78a7ff&fire=78a7ff&currStreakLabel=78a7ff&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e&stroke=30363d" />
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=kanazawa-dev&hide_border=true&background=00000000&ring=1748c7&fire=1748c7&currStreakLabel=1748c7&currStreakNum=24292f&sideNums=24292f&sideLabels=57606a&dates=57606a&stroke=d0d7de" />
   <img src="https://streak-stats.demolab.com?user=kanazawa-dev&hide_border=true&background=00000000&ring=1748c7&fire=1748c7&currStreakLabel=1748c7&currStreakNum=24292f&sideNums=24292f&sideLabels=57606a&dates=57606a&stroke=d0d7de" alt="GitHub contribution streak" />
 </picture>
-</p>
+
+</div>
 
 <details>
 <summary>Easter egg, the contribution snake</summary>
