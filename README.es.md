@@ -30,6 +30,13 @@
       <img src="https://img.shields.io/badge/GitHub-kanazawa--dev-1748c7?style=flat-square&logo=github&logoColor=fffdf7&labelColor=1748c7" alt="GitHub" />
     </picture>
   </a>
+  <a href="https://www.linkedin.com/in/alexelguetar/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-alexelguetar-78a7ff?style=flat-square&labelColor=78a7ff" />
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/LinkedIn-alexelguetar-1748c7?style=flat-square&labelColor=1748c7" />
+      <img src="https://img.shields.io/badge/LinkedIn-alexelguetar-1748c7?style=flat-square&labelColor=1748c7" alt="LinkedIn" />
+    </picture>
+  </a>
   <a href="https://twitter.com/AlexElguetaDev">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/X-@AlexElguetaDev-78a7ff?style=flat-square&logo=x&logoColor=071a3d&labelColor=78a7ff" />
