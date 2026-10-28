@@ -49,9 +49,7 @@
 
 ## Hi, I'm Alex
 
-I'm a software engineer and product builder based in **Los Ángeles, Chile**. I build products end to end: architecture, backend, interfaces, and the infrastructure that gets them into people's hands.
-
-My main focus is **[ComuniOS](https://comunios.cl)**, where I'm **Founder, CEO & CTO**. I lead the product and engineering, building software that makes running a residential community simpler and more transparent.
+I'm a software engineer and product builder based in **Los Ángeles, Chile**. I build products end to end, from architecture and backend to interfaces and the infrastructure that ships them, and lately most of them put **AI to work on real data**.
 
 ## Main focus · [ComuniOS](https://comunios.cl)
 
@@ -70,39 +68,55 @@ My main focus is **[ComuniOS](https://comunios.cl)**, where I'm **Founder, CEO &
   </tr>
 </table>
 
-<sub>Product screenshots from the ComuniOS website.</sub>
+**One platform for condominium management in Chile**, replacing spreadsheets and WhatsApp groups with dedicated spaces for administrators, concierge staff, and residents. I'm **Founder, CEO & CTO**, building it with my neighbor Francisco Urzúa after living the lack of transparency in our own building.
 
-**One platform for condominium and residential building management in Chile.** ComuniOS brings together the work that usually lives across spreadsheets, folders, and WhatsApp groups, with dedicated web spaces for administration, concierge staff, and residents.
+**What's interesting under the hood:**
 
-- **Clearer finances:** common expense billing, online payments, bank reconciliation, accounting, and reporting to the management committee.
-- **Everyday operations:** visitor and parcel logs, shared-space reservations, requests, and community announcements.
-- **A connected community:** administrators manage the building, concierge staff handle daily operations, and residents check their balance, pay, and stay informed.
-- **AI with context:** an assistant that answers questions using community data, with each person accessing only the information relevant to their role.
-
-Built for Chilean communities, with workflows designed around **Law 21.442 on condominium co-ownership**. Available on the web from a phone or computer; native iOS and Android apps are coming next.
-
-It started with the lack of transparency in my own building. I'm building it with my neighbor, Francisco Urzúa: we share the same community and the problems we're solving.
-
-**My role:** product vision, software architecture, and end-to-end development across the administration, resident, and concierge experiences.
+- **Multi-role platform:** one domain, three experiences (administration, concierge, residents) with role-scoped access.
+- **AI with boundaries:** an assistant that answers from community data and only sees what each role is allowed to see.
+- **Money flows:** common expense billing, online payments, and bank reconciliation designed around Chile's Law 21.442.
 
 **[Explore ComuniOS →](https://comunios.cl)** · [Meet the team](https://comunios.cl/equipo) · [Why I built it](https://comunios.cl/blog/por-que-cree-comunios)
 
 ---
 
-## Other products
+## AI products
 
-| Project | What it does | Links |
-| --- | --- | --- |
-| **Voysse** | Open-source, white-label AI agents for agencies, with WhatsApp and web chat, branded client portals, and self-hosting. | [Website](https://voysse.cl) · [Docs](https://docs.voysse.cl) · [Code](https://github.com/kanazawa-dev/voysse) |
-| **Titvo** | AI-powered code security review. I help build it at Karibu. | [Website](https://titvo.com) · [Code](https://github.com/KaribuLab/titvo-security-scan) |
-| **Mushu** | AI-assisted food tracking with less friction. | — |
-| **Violet** | Simpler personal finance. | — |
+<p align="center">
+  <a href="https://github.com/kanazawa-dev/voysse">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?description_lines_count=3&bg_color=00000000&title_color=78a7ff&icon_color=78a7ff&text_color=c9d1d9&border_color=30363d&username=kanazawa-dev&repo=voysse" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?description_lines_count=3&bg_color=00000000&title_color=1748c7&icon_color=1748c7&text_color=444444&border_color=d0d7de&username=kanazawa-dev&repo=voysse" />
+      <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?description_lines_count=3&bg_color=00000000&title_color=1748c7&icon_color=1748c7&text_color=444444&border_color=d0d7de&username=kanazawa-dev&repo=voysse" alt="Voysse repository card" />
+    </picture>
+  </a>
+  <a href="https://github.com/KaribuLab/titvo-security-scan">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?description_lines_count=3&bg_color=00000000&title_color=78a7ff&icon_color=78a7ff&text_color=c9d1d9&border_color=30363d&username=KaribuLab&repo=titvo-security-scan&show_owner=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?description_lines_count=3&bg_color=00000000&title_color=1748c7&icon_color=1748c7&text_color=444444&border_color=d0d7de&username=KaribuLab&repo=titvo-security-scan&show_owner=true" />
+      <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?description_lines_count=3&bg_color=00000000&title_color=1748c7&icon_color=1748c7&text_color=444444&border_color=d0d7de&username=KaribuLab&repo=titvo-security-scan&show_owner=true" alt="Titvo repository card" />
+    </picture>
+  </a>
+</p>
 
-## Engineering & experience
+- **[Voysse](https://voysse.cl):** white-label AI agents for agencies, with WhatsApp, web chat, client portals, RAG, and MCP tools. Self-host it or use Voysse Cloud. [Docs](https://docs.voysse.cl)
+- **[Titvo](https://titvo.com):** AI-powered code security review. I help build it at Karibu.
 
-**Languages:** TypeScript, Python, Rust<br />
-**Building with:** React, Next.js, NestJS, FastAPI, PostgreSQL, Docker<br />
-**Shipping on:** Railway, Vercel, AWS, Cloudflare
+<sub>Also cooking: **Mushu** (AI-assisted food tracking) and **Violet** (simpler personal finance).</sub>
+
+## Stack
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,py,rust,react,nextjs,nestjs,fastapi,postgres,docker,aws,vercel,cloudflare&perline=12&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,py,rust,react,nextjs,nestjs,fastapi,postgres,docker,aws,vercel,cloudflare&perline=12&theme=light" />
+  <img src="https://skillicons.dev/icons?i=ts,py,rust,react,nextjs,nestjs,fastapi,postgres,docker,aws,vercel,cloudflare&perline=12&theme=light" alt="TypeScript, Python, Rust, React, Next.js, NestJS, FastAPI, PostgreSQL, Docker, AWS, Vercel, Cloudflare" />
+</picture>
+</p>
+
+<p align="center"><sub>Also shipping on Railway.</sub></p>
+
+## Experience
 
 - **ComuniOS · Founder, CEO & CTO:** product and technology for residential communities.
 - **Karibu · Fullstack Engineer:** scalable web applications and AI-powered products.
@@ -110,19 +124,15 @@ It started with the lack of transparency in my own building. I'm building it wit
 
 I value simple systems, clean architecture, and shipping useful software.
 
----
+## GitHub activity
 
-<div align="center">
-
-### Let's connect
-
-[ComuniOS](https://comunios.cl) · [Personal website](https://alexelgueta.me) · [X / Twitter](https://twitter.com/AlexElguetaDev)
-
-<sub>Building ComuniOS · Los Ángeles, Chile</sub>
-
-</div>
-
----
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=kanazawa-dev&hide_border=true&background=00000000&ring=78a7ff&fire=78a7ff&currStreakLabel=78a7ff&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e&stroke=30363d" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=kanazawa-dev&hide_border=true&background=00000000&ring=1748c7&fire=1748c7&currStreakLabel=1748c7&currStreakNum=24292f&sideNums=24292f&sideLabels=57606a&dates=57606a&stroke=d0d7de" />
+  <img src="https://streak-stats.demolab.com?user=kanazawa-dev&hide_border=true&background=00000000&ring=1748c7&fire=1748c7&currStreakLabel=1748c7&currStreakNum=24292f&sideNums=24292f&sideLabels=57606a&dates=57606a&stroke=d0d7de" alt="GitHub contribution streak" />
+</picture>
+</p>
 
 <details>
 <summary>Easter egg, the contribution snake</summary>
