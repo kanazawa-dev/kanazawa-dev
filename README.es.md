@@ -4,7 +4,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kanazawa-dev/kanazawa-dev/main/assets/terminal/es-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kanazawa-dev/kanazawa-dev/main/assets/terminal/es-light.svg" />
-    <img width="100%" src="https://raw.githubusercontent.com/kanazawa-dev/kanazawa-dev/main/assets/terminal/es-light.svg" alt="Terminal animada que presenta a Alex Elgueta: AI Software Engineer e Indie Builder de Los Ángeles, Chile. Fundador, CEO y CTO de ComuniOS; construye Voysse y participa en Titvo en Karibu." />
+    <img width="100%" src="https://raw.githubusercontent.com/kanazawa-dev/kanazawa-dev/main/assets/terminal/es-light.svg" alt="Terminal animada que presenta a Alex Elgueta: AI Software Engineer e Indie Builder de Los Ángeles, Chile. Fullstack Engineer en Karibu (trabajo principal), fundador de ComuniOS, creador de Voysse y contribuidor de diri y Defi." />
   </picture>
 </a>
 
@@ -54,7 +54,7 @@
 
 ---
 
-## Proyecto principal · [ComuniOS](https://comunios.cl)
+## Mi startup · [ComuniOS](https://comunios.cl)
 
 ### Menos caos. Más comunidad.
 
@@ -103,9 +103,33 @@
 </p>
 
 - **[Voysse](https://voysse.cl):** agentes de IA de marca blanca para agencias, con WhatsApp, chat web, portales para clientes, RAG y herramientas MCP. Alójalo tú mismo o usa Voysse Cloud. [Documentación](https://docs.voysse.cl)
-- **[Titvo](https://titvo.com):** revisión de seguridad de código con IA. Participo en su desarrollo en Karibu.
+- **[Titvo](https://titvo.com):** revisión de seguridad de código con IA, desarrollada en Karibu, mi trabajo principal, donde soy Fullstack Engineer.
 
 <sub>También en el horno: **Mushu** (registro de comidas con IA) y **Violet** (finanzas personales más simples).</sub>
+
+## Open source donde contribuyo
+
+Feliz y emocionado de ser contribuidor de ambos:
+
+<p align="center">
+  <a href="https://github.com/cristicretu/diri">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?description_lines_count=3&bg_color=00000000&title_color=78a7ff&icon_color=78a7ff&text_color=c9d1d9&border_color=30363d&username=cristicretu&repo=diri&show_owner=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?description_lines_count=3&bg_color=00000000&title_color=1748c7&icon_color=1748c7&text_color=444444&border_color=d0d7de&username=cristicretu&repo=diri&show_owner=true" />
+      <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?description_lines_count=3&bg_color=00000000&title_color=1748c7&icon_color=1748c7&text_color=444444&border_color=d0d7de&username=cristicretu&repo=diri&show_owner=true" alt="Tarjeta del repositorio de diri" />
+    </picture>
+  </a>
+  <a href="https://github.com/qeude/Defi">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?description_lines_count=3&bg_color=00000000&title_color=78a7ff&icon_color=78a7ff&text_color=c9d1d9&border_color=30363d&username=qeude&repo=Defi&show_owner=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?description_lines_count=3&bg_color=00000000&title_color=1748c7&icon_color=1748c7&text_color=444444&border_color=d0d7de&username=qeude&repo=Defi&show_owner=true" />
+      <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?description_lines_count=3&bg_color=00000000&title_color=1748c7&icon_color=1748c7&text_color=444444&border_color=d0d7de&username=qeude&repo=Defi&show_owner=true" alt="Tarjeta del repositorio de Defi" />
+    </picture>
+  </a>
+</p>
+
+- **[diri](https://github.com/cristicretu/diri):** la mejor forma de trabajar con agentes de código. Corre cincuenta en paralelo y revisa todo en un solo lugar.
+- **[Defi](https://github.com/qeude/Defi):** un gestor de ventanas en mosaico con scroll para macOS, rápido y nativo, inspirado en Niri.
 
 ## Actividad en GitHub
 

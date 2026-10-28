@@ -57,9 +57,14 @@ CONTENT = {
                 [("that ships them. Lately, most of them put AI to work on real data.", "out")],
             ]),
             ("alex --now", [
+                [("▸ ", "key"), ("Karibu    ", "accent"), ("Fullstack Engineer · my main job · building Titvo and AI products", "out")],
                 [("▸ ", "key"), ("ComuniOS  ", "accent"), ("Founder, CEO & CTO · condominium management for Chile", "out")],
                 [("▸ ", "key"), ("Voysse    ", "accent"), ("white-label AI agents · WhatsApp, web chat, RAG, MCP", "out")],
-                [("▸ ", "key"), ("Titvo     ", "accent"), ("AI-powered code security review · with the team at Karibu", "out")],
+            ]),
+            ("git log --author=alex --contributions", [
+                [("★ ", "key"), ("diri      ", "accent"), ("Rust · run fifty coding agents in parallel, review in one place", "out")],
+                [("★ ", "key"), ("Defi      ", "accent"), ("Swift · fast, native scrollable-tiling window manager for macOS", "out")],
+                [("Excited to be a contributor to both.", "ok")],
             ]),
             ("alex --experience --table", "table"),
             ("alex --stack", [
@@ -78,8 +83,8 @@ CONTENT = {
         "table": (
             ["Company", "Role", "Focus"],
             [
+                ["Karibu (main job)", "Fullstack Engineer", "Scalable web apps and AI products"],
                 ["ComuniOS", "Founder, CEO & CTO", "Software for residential communities"],
-                ["Karibu", "Fullstack Engineer", "Scalable web apps and AI products"],
                 ["Portal de Especialistas", "CTO (previously)", "Homeowner and specialist marketplace"],
             ],
         ),
@@ -96,9 +101,14 @@ CONTENT = {
                 [("que los pone en producción. Hoy, casi todos ponen la IA a trabajar con datos reales.", "out")],
             ]),
             ("alex --now", [
+                [("▸ ", "key"), ("Karibu    ", "accent"), ("Fullstack Engineer · mi trabajo principal · Titvo y productos con IA", "out")],
                 [("▸ ", "key"), ("ComuniOS  ", "accent"), ("fundador, CEO y CTO · administración de condominios en Chile", "out")],
                 [("▸ ", "key"), ("Voysse    ", "accent"), ("agentes de IA de marca blanca · WhatsApp, chat web, RAG, MCP", "out")],
-                [("▸ ", "key"), ("Titvo     ", "accent"), ("revisión de seguridad de código con IA · con el equipo de Karibu", "out")],
+            ]),
+            ("git log --author=alex --contributions", [
+                [("★ ", "key"), ("diri      ", "accent"), ("Rust · cincuenta agentes de código en paralelo, todo en un lugar", "out")],
+                [("★ ", "key"), ("Defi      ", "accent"), ("Swift · gestor de ventanas en mosaico, rápido y nativo para macOS", "out")],
+                [("Feliz y emocionado de contribuir a ambos.", "ok")],
             ]),
             ("alex --experience --table", "table"),
             ("alex --stack", [
@@ -117,8 +127,8 @@ CONTENT = {
         "table": (
             ["Empresa", "Rol", "Foco"],
             [
+                ["Karibu (principal)", "Fullstack Engineer", "Apps web escalables y productos con IA"],
                 ["ComuniOS", "Fundador, CEO y CTO", "Software para comunidades residenciales"],
-                ["Karibu", "Fullstack Engineer", "Apps web escalables y productos con IA"],
                 ["Portal de Especialistas", "CTO (anteriormente)", "Marketplace de hogares y especialistas"],
             ],
         ),

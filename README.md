@@ -4,7 +4,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kanazawa-dev/kanazawa-dev/main/assets/terminal/en-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kanazawa-dev/kanazawa-dev/main/assets/terminal/en-light.svg" />
-    <img width="100%" src="https://raw.githubusercontent.com/kanazawa-dev/kanazawa-dev/main/assets/terminal/en-light.svg" alt="Animated terminal introducing Alex Elgueta: AI Software Engineer and Indie Builder from Los Ángeles, Chile. Founder, CEO and CTO of ComuniOS; builds Voysse and helps build Titvo at Karibu." />
+    <img width="100%" src="https://raw.githubusercontent.com/kanazawa-dev/kanazawa-dev/main/assets/terminal/en-light.svg" alt="Animated terminal introducing Alex Elgueta: AI Software Engineer and Indie Builder from Los Ángeles, Chile. Fullstack Engineer at Karibu (main job), founder of ComuniOS, builder of Voysse, and contributor to diri and Defi." />
   </picture>
 </a>
 
@@ -54,7 +54,7 @@
 
 ---
 
-## Main focus · [ComuniOS](https://comunios.cl)
+## My startup · [ComuniOS](https://comunios.cl)
 
 ### Less chaos. More community.
 
@@ -103,9 +103,33 @@
 </p>
 
 - **[Voysse](https://voysse.cl):** white-label AI agents for agencies, with WhatsApp, web chat, client portals, RAG, and MCP tools. Self-host it or use Voysse Cloud. [Docs](https://docs.voysse.cl)
-- **[Titvo](https://titvo.com):** AI-powered code security review. I help build it at Karibu.
+- **[Titvo](https://titvo.com):** AI-powered code security review, built at Karibu, my main job, where I work as a Fullstack Engineer.
 
 <sub>Also cooking: **Mushu** (AI-assisted food tracking) and **Violet** (simpler personal finance).</sub>
+
+## Open source I contribute to
+
+Excited to be a contributor to both:
+
+<p align="center">
+  <a href="https://github.com/cristicretu/diri">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?description_lines_count=3&bg_color=00000000&title_color=78a7ff&icon_color=78a7ff&text_color=c9d1d9&border_color=30363d&username=cristicretu&repo=diri&show_owner=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?description_lines_count=3&bg_color=00000000&title_color=1748c7&icon_color=1748c7&text_color=444444&border_color=d0d7de&username=cristicretu&repo=diri&show_owner=true" />
+      <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?description_lines_count=3&bg_color=00000000&title_color=1748c7&icon_color=1748c7&text_color=444444&border_color=d0d7de&username=cristicretu&repo=diri&show_owner=true" alt="diri repository card" />
+    </picture>
+  </a>
+  <a href="https://github.com/qeude/Defi">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?description_lines_count=3&bg_color=00000000&title_color=78a7ff&icon_color=78a7ff&text_color=c9d1d9&border_color=30363d&username=qeude&repo=Defi&show_owner=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?description_lines_count=3&bg_color=00000000&title_color=1748c7&icon_color=1748c7&text_color=444444&border_color=d0d7de&username=qeude&repo=Defi&show_owner=true" />
+      <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?description_lines_count=3&bg_color=00000000&title_color=1748c7&icon_color=1748c7&text_color=444444&border_color=d0d7de&username=qeude&repo=Defi&show_owner=true" alt="Defi repository card" />
+    </picture>
+  </a>
+</p>
+
+- **[diri](https://github.com/cristicretu/diri):** the best way to work with coding agents. Run fifty in parallel and review everything in one place.
+- **[Defi](https://github.com/qeude/Defi):** a fast, native scrollable-tiling window manager for macOS, inspired by Niri.
 
 ## GitHub activity
 
