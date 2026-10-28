@@ -4,7 +4,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kanazawa-dev/kanazawa-dev/main/assets/terminal/en-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kanazawa-dev/kanazawa-dev/main/assets/terminal/en-light.svg" />
-    <img width="100%" src="https://raw.githubusercontent.com/kanazawa-dev/kanazawa-dev/main/assets/terminal/en-light.svg" alt="Animated terminal introducing Alex Elgueta: AI Software Engineer and Indie Builder from Los Ángeles, Chile. Fullstack Engineer at Karibu (main job), founder of ComuniOS, builder of Voysse, and contributor to diri and Defi." />
+    <img width="100%" src="https://raw.githubusercontent.com/kanazawa-dev/kanazawa-dev/main/assets/terminal/en-light.svg" alt="Animated terminal introducing Alex Elgueta: AI Software Engineer and Indie Builder from Los Ángeles, Chile. Software Engineer at Karibu (main job), founder of ComuniOS, builder of Voysse, and contributor to diri and Defi." />
   </picture>
 </a>
 

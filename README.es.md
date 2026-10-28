@@ -4,7 +4,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kanazawa-dev/kanazawa-dev/main/assets/terminal/es-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kanazawa-dev/kanazawa-dev/main/assets/terminal/es-light.svg" />
-    <img width="100%" src="https://raw.githubusercontent.com/kanazawa-dev/kanazawa-dev/main/assets/terminal/es-light.svg" alt="Terminal animada que presenta a Alex Elgueta: AI Software Engineer e Indie Builder de Los Ángeles, Chile. Fullstack Engineer en Karibu (trabajo principal), fundador de ComuniOS, creador de Voysse y contribuidor de diri y Defi." />
+    <img width="100%" src="https://raw.githubusercontent.com/kanazawa-dev/kanazawa-dev/main/assets/terminal/es-light.svg" alt="Terminal animada que presenta a Alex Elgueta: AI Software Engineer e Indie Builder de Los Ángeles, Chile. ingeniero de software en Karibu (trabajo principal), fundador de ComuniOS, creador de Voysse y contribuidor de diri y Defi." />
   </picture>
 </a>
 
