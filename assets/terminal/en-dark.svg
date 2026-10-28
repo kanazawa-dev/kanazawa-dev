@@ -1,0 +1,248 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="821" height="853" viewBox="0 0 821 853" role="img" aria-labelledby="title">
+<title id="title">Animated terminal introducing Alex Elgueta, AI Software Engineer and Indie Builder</title>
+<defs><linearGradient id="name-dark" x1="0" x2="1"><stop offset="0" stop-color="#78a7ff"/><stop offset="1" stop-color="#c2d6ff"/></linearGradient></defs>
+<style>
+text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace;font-size:14px;white-space:pre}
+.frame{fill:#3d5a8a}.path{fill:#78a7ff}.cmd{fill:#e6edf3}.out{fill:#c9d1d9}.muted{fill:#8b949e}.accent{fill:#78a7ff}.key{fill:#f2cc60}.ok{fill:#7ee787}
+.accent{font-weight:700}
+.cursor{fill:#78a7ff}
+.r{animation:show .01s both}
+.sweep{animation:sweep .9s steps(56) .2s both}
+@keyframes show{from{opacity:0}to{opacity:1}}
+@keyframes sweep{from{clip-path:inset(0 100% 0 0)}to{clip-path:inset(0 0 0 0)}}
+@keyframes blink{50%{opacity:0}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect x=".5" y=".5" width="820" height="852" rx="12" fill="#0d1117" stroke="#30363d"/>
+<path d="M12.5 .5h796a12 12 0 0 1 12 12v32h-820v-32a12 12 0 0 1 12-12z" fill="#161b22"/>
+<line x1=".5" y1="44.5" x2="820.5" y2="44.5" stroke="#30363d"/>
+<circle cx="24" cy="22.0" r="6" fill="#ff5f57"/><circle cx="44" cy="22.0" r="6" fill="#febc2e"/><circle cx="64" cy="22.0" r="6" fill="#28c840"/>
+<text x="410.5" y="27.0" text-anchor="middle" class="muted">alex@kanazawa-dev: ~</text>
+<g fill="url(#name-dark)" class="sweep"><rect x="31" y="68" width="6" height="6" rx="1"/><rect x="38" y="68" width="6" height="6" rx="1"/><rect x="24" y="75" width="6" height="6" rx="1"/><rect x="45" y="75" width="6" height="6" rx="1"/><rect x="24" y="82" width="6" height="6" rx="1"/><rect x="31" y="82" width="6" height="6" rx="1"/><rect x="38" y="82" width="6" height="6" rx="1"/><rect x="45" y="82" width="6" height="6" rx="1"/><rect x="24" y="89" width="6" height="6" rx="1"/><rect x="45" y="89" width="6" height="6" rx="1"/><rect x="24" y="96" width="6" height="6" rx="1"/><rect x="45" y="96" width="6" height="6" rx="1"/><rect x="59" y="68" width="6" height="6" rx="1"/><rect x="59" y="75" width="6" height="6" rx="1"/><rect x="59" y="82" width="6" height="6" rx="1"/><rect x="59" y="89" width="6" height="6" rx="1"/><rect x="59" y="96" width="6" height="6" rx="1"/><rect x="66" y="96" width="6" height="6" rx="1"/><rect x="73" y="96" width="6" height="6" rx="1"/><rect x="80" y="96" width="6" height="6" rx="1"/><rect x="94" y="68" width="6" height="6" rx="1"/><rect x="101" y="68" width="6" height="6" rx="1"/><rect x="108" y="68" width="6" height="6" rx="1"/><rect x="115" y="68" width="6" height="6" rx="1"/><rect x="94" y="75" width="6" height="6" rx="1"/><rect x="94" y="82" width="6" height="6" rx="1"/><rect x="101" y="82" width="6" height="6" rx="1"/><rect x="108" y="82" width="6" height="6" rx="1"/><rect x="94" y="89" width="6" height="6" rx="1"/><rect x="94" y="96" width="6" height="6" rx="1"/><rect x="101" y="96" width="6" height="6" rx="1"/><rect x="108" y="96" width="6" height="6" rx="1"/><rect x="115" y="96" width="6" height="6" rx="1"/><rect x="129" y="68" width="6" height="6" rx="1"/><rect x="150" y="68" width="6" height="6" rx="1"/><rect x="129" y="75" width="6" height="6" rx="1"/><rect x="150" y="75" width="6" height="6" rx="1"/><rect x="136" y="82" width="6" height="6" rx="1"/><rect x="143" y="82" width="6" height="6" rx="1"/><rect x="129" y="89" width="6" height="6" rx="1"/><rect x="150" y="89" width="6" height="6" rx="1"/><rect x="129" y="96" width="6" height="6" rx="1"/><rect x="150" y="96" width="6" height="6" rx="1"/><rect x="185" y="68" width="6" height="6" rx="1"/><rect x="192" y="68" width="6" height="6" rx="1"/><rect x="199" y="68" width="6" height="6" rx="1"/><rect x="206" y="68" width="6" height="6" rx="1"/><rect x="185" y="75" width="6" height="6" rx="1"/><rect x="185" y="82" width="6" height="6" rx="1"/><rect x="192" y="82" width="6" height="6" rx="1"/><rect x="199" y="82" width="6" height="6" rx="1"/><rect x="185" y="89" width="6" height="6" rx="1"/><rect x="185" y="96" width="6" height="6" rx="1"/><rect x="192" y="96" width="6" height="6" rx="1"/><rect x="199" y="96" width="6" height="6" rx="1"/><rect x="206" y="96" width="6" height="6" rx="1"/><rect x="220" y="68" width="6" height="6" rx="1"/><rect x="220" y="75" width="6" height="6" rx="1"/><rect x="220" y="82" width="6" height="6" rx="1"/><rect x="220" y="89" width="6" height="6" rx="1"/><rect x="220" y="96" width="6" height="6" rx="1"/><rect x="227" y="96" width="6" height="6" rx="1"/><rect x="234" y="96" width="6" height="6" rx="1"/><rect x="241" y="96" width="6" height="6" rx="1"/><rect x="262" y="68" width="6" height="6" rx="1"/><rect x="269" y="68" width="6" height="6" rx="1"/><rect x="276" y="68" width="6" height="6" rx="1"/><rect x="255" y="75" width="6" height="6" rx="1"/><rect x="255" y="82" width="6" height="6" rx="1"/><rect x="269" y="82" width="6" height="6" rx="1"/><rect x="276" y="82" width="6" height="6" rx="1"/><rect x="255" y="89" width="6" height="6" rx="1"/><rect x="276" y="89" width="6" height="6" rx="1"/><rect x="262" y="96" width="6" height="6" rx="1"/><rect x="269" y="96" width="6" height="6" rx="1"/><rect x="276" y="96" width="6" height="6" rx="1"/><rect x="290" y="68" width="6" height="6" rx="1"/><rect x="311" y="68" width="6" height="6" rx="1"/><rect x="290" y="75" width="6" height="6" rx="1"/><rect x="311" y="75" width="6" height="6" rx="1"/><rect x="290" y="82" width="6" height="6" rx="1"/><rect x="311" y="82" width="6" height="6" rx="1"/><rect x="290" y="89" width="6" height="6" rx="1"/><rect x="311" y="89" width="6" height="6" rx="1"/><rect x="297" y="96" width="6" height="6" rx="1"/><rect x="304" y="96" width="6" height="6" rx="1"/><rect x="325" y="68" width="6" height="6" rx="1"/><rect x="332" y="68" width="6" height="6" rx="1"/><rect x="339" y="68" width="6" height="6" rx="1"/><rect x="346" y="68" width="6" height="6" rx="1"/><rect x="325" y="75" width="6" height="6" rx="1"/><rect x="325" y="82" width="6" height="6" rx="1"/><rect x="332" y="82" width="6" height="6" rx="1"/><rect x="339" y="82" width="6" height="6" rx="1"/><rect x="325" y="89" width="6" height="6" rx="1"/><rect x="325" y="96" width="6" height="6" rx="1"/><rect x="332" y="96" width="6" height="6" rx="1"/><rect x="339" y="96" width="6" height="6" rx="1"/><rect x="346" y="96" width="6" height="6" rx="1"/><rect x="360" y="68" width="6" height="6" rx="1"/><rect x="367" y="68" width="6" height="6" rx="1"/><rect x="374" y="68" width="6" height="6" rx="1"/><rect x="367" y="75" width="6" height="6" rx="1"/><rect x="367" y="82" width="6" height="6" rx="1"/><rect x="367" y="89" width="6" height="6" rx="1"/><rect x="367" y="96" width="6" height="6" rx="1"/><rect x="395" y="68" width="6" height="6" rx="1"/><rect x="402" y="68" width="6" height="6" rx="1"/><rect x="388" y="75" width="6" height="6" rx="1"/><rect x="409" y="75" width="6" height="6" rx="1"/><rect x="388" y="82" width="6" height="6" rx="1"/><rect x="395" y="82" width="6" height="6" rx="1"/><rect x="402" y="82" width="6" height="6" rx="1"/><rect x="409" y="82" width="6" height="6" rx="1"/><rect x="388" y="89" width="6" height="6" rx="1"/><rect x="409" y="89" width="6" height="6" rx="1"/><rect x="388" y="96" width="6" height="6" rx="1"/><rect x="409" y="96" width="6" height="6" rx="1"/></g>
+<text x="444.0" y="82" class="accent r" textLength="168.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.90s">AI Software Engineer</text>
+<text x="612.0" y="82" class="out r" textLength="134.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.90s"> · Indie Builder</text>
+<text x="444.0" y="101" class="muted r" textLength="294.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.05s">Ship something people actually use.</text>
+<text x="24.0" y="149" class="frame r" textLength="25.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.30s">┌─(</text>
+<text x="49.2" y="149" class="path r" textLength="67.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.30s">~/github</text>
+<text x="116.4" y="149" class="frame r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.30s">)</text>
+<text x="124.8" y="149" class="frame r" textLength="529.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.30s">───────────────────────────────────────────────────────────────</text>
+<text x="654.0" y="149" class="frame r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.30s">(</text>
+<text x="662.4" y="149" class="path r" textLength="109.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.30s">alex@kanazawa</text>
+<text x="771.6" y="149" class="frame r" textLength="25.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.30s">)─┐</text>
+<text x="24.0" y="169" class="frame r" textLength="25.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.30s">└─(</text>
+<text x="49.2" y="169" class="muted r" textLength="67.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.30s">00:00:01</text>
+<text x="116.4" y="169" class="frame r" textLength="42.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.30s">)──○ </text>
+<text x="158.4" y="169" class="cmd r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.45s">w</text>
+<text x="166.8" y="169" class="cmd r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.49s">h</text>
+<text x="175.2" y="169" class="cmd r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.53s">o</text>
+<text x="183.6" y="169" class="cmd r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.57s">a</text>
+<text x="192.0" y="169" class="cmd r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.61s">m</text>
+<text x="200.4" y="169" class="cmd r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.65s">i</text>
+<text x="208.8" y="169" class="frame r" textLength="504.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.30s">                                                            </text>
+<text x="712.8" y="169" class="frame r" textLength="84.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.30s">○──(zsh)─┘</text>
+<text x="24.0" y="189" class="accent r" textLength="100.8" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.84s">Alex Elgueta</text>
+<text x="124.8" y="189" class="out r" textLength="512.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.84s"> · software engineer and product builder · Los Ángeles, Chile</text>
+<text x="24.0" y="209" class="out r" textLength="646.8" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.90s">I build products end to end: architecture, backend, interfaces, and the infra</text>
+<text x="24.0" y="229" class="out r" textLength="554.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.96s">that ships them. Lately, most of them put AI to work on real data.</text>
+<text x="24.0" y="259" class="frame r" textLength="25.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:2.32s">┌─(</text>
+<text x="49.2" y="259" class="path r" textLength="67.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:2.32s">~/github</text>
+<text x="116.4" y="259" class="frame r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:2.32s">)</text>
+<text x="124.8" y="259" class="frame r" textLength="529.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:2.32s">───────────────────────────────────────────────────────────────</text>
+<text x="654.0" y="259" class="frame r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:2.32s">(</text>
+<text x="662.4" y="259" class="path r" textLength="109.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:2.32s">alex@kanazawa</text>
+<text x="771.6" y="259" class="frame r" textLength="25.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:2.32s">)─┐</text>
+<text x="24.0" y="279" class="frame r" textLength="25.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:2.32s">└─(</text>
+<text x="49.2" y="279" class="muted r" textLength="67.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:2.32s">00:00:02</text>
+<text x="116.4" y="279" class="frame r" textLength="42.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:2.32s">)──○ </text>
+<text x="158.4" y="279" class="cmd r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:2.47s">a</text>
+<text x="166.8" y="279" class="cmd r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:2.51s">l</text>
+<text x="175.2" y="279" class="cmd r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:2.55s">e</text>
+<text x="183.6" y="279" class="cmd r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:2.59s">x</text>
+<text x="200.4" y="279" class="cmd r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:2.67s">-</text>
+<text x="208.8" y="279" class="cmd r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:2.71s">-</text>
+<text x="217.2" y="279" class="cmd r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:2.75s">n</text>
+<text x="225.6" y="279" class="cmd r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:2.79s">o</text>
+<text x="234.0" y="279" class="cmd r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:2.83s">w</text>
+<text x="242.4" y="279" class="frame r" textLength="470.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:2.32s">                                                        </text>
+<text x="712.8" y="279" class="frame r" textLength="84.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:2.32s">○──(zsh)─┘</text>
+<text x="24.0" y="299" class="key r" textLength="16.8" lengthAdjust="spacingAndGlyphs" style="animation-delay:3.02s">▸ </text>
+<text x="40.8" y="299" class="accent r" textLength="84.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:3.02s">ComuniOS  </text>
+<text x="124.8" y="299" class="out r" textLength="445.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:3.02s">Founder, CEO &amp; CTO · condominium management for Chile</text>
+<text x="24.0" y="319" class="key r" textLength="16.8" lengthAdjust="spacingAndGlyphs" style="animation-delay:3.08s">▸ </text>
+<text x="40.8" y="319" class="accent r" textLength="84.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:3.08s">Voysse    </text>
+<text x="124.8" y="319" class="out r" textLength="436.8" lengthAdjust="spacingAndGlyphs" style="animation-delay:3.08s">white-label AI agents · WhatsApp, web chat, RAG, MCP</text>
+<text x="24.0" y="339" class="key r" textLength="16.8" lengthAdjust="spacingAndGlyphs" style="animation-delay:3.14s">▸ </text>
+<text x="40.8" y="339" class="accent r" textLength="84.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:3.14s">Titvo     </text>
+<text x="124.8" y="339" class="out r" textLength="478.8" lengthAdjust="spacingAndGlyphs" style="animation-delay:3.14s">AI-powered code security review · with the team at Karibu</text>
+<text x="24.0" y="369" class="frame r" textLength="25.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:3.50s">┌─(</text>
+<text x="49.2" y="369" class="path r" textLength="67.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:3.50s">~/github</text>
+<text x="116.4" y="369" class="frame r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:3.50s">)</text>
+<text x="124.8" y="369" class="frame r" textLength="529.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:3.50s">───────────────────────────────────────────────────────────────</text>
+<text x="654.0" y="369" class="frame r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:3.50s">(</text>
+<text x="662.4" y="369" class="path r" textLength="109.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:3.50s">alex@kanazawa</text>
+<text x="771.6" y="369" class="frame r" textLength="25.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:3.50s">)─┐</text>
+<text x="24.0" y="389" class="frame r" textLength="25.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:3.50s">└─(</text>
+<text x="49.2" y="389" class="muted r" textLength="67.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:3.50s">00:00:03</text>
+<text x="116.4" y="389" class="frame r" textLength="42.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:3.50s">)──○ </text>
+<text x="158.4" y="389" class="cmd r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:3.65s">a</text>
+<text x="166.8" y="389" class="cmd r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:3.69s">l</text>
+<text x="175.2" y="389" class="cmd r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:3.73s">e</text>
+<text x="183.6" y="389" class="cmd r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:3.77s">x</text>
+<text x="200.4" y="389" class="cmd r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:3.85s">-</text>
+<text x="208.8" y="389" class="cmd r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:3.89s">-</text>
+<text x="217.2" y="389" class="cmd r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:3.93s">e</text>
+<text x="225.6" y="389" class="cmd r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:3.97s">x</text>
+<text x="234.0" y="389" class="cmd r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:4.01s">p</text>
+<text x="242.4" y="389" class="cmd r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:4.05s">e</text>
+<text x="250.8" y="389" class="cmd r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:4.09s">r</text>
+<text x="259.2" y="389" class="cmd r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:4.13s">i</text>
+<text x="267.6" y="389" class="cmd r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:4.17s">e</text>
+<text x="276.0" y="389" class="cmd r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:4.21s">n</text>
+<text x="284.4" y="389" class="cmd r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:4.25s">c</text>
+<text x="292.8" y="389" class="cmd r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:4.29s">e</text>
+<text x="309.6" y="389" class="cmd r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:4.37s">-</text>
+<text x="318.0" y="389" class="cmd r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:4.41s">-</text>
+<text x="326.4" y="389" class="cmd r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:4.45s">t</text>
+<text x="334.8" y="389" class="cmd r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:4.49s">a</text>
+<text x="343.2" y="389" class="cmd r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:4.53s">b</text>
+<text x="351.6" y="389" class="cmd r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:4.57s">l</text>
+<text x="360.0" y="389" class="cmd r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:4.61s">e</text>
+<text x="368.4" y="389" class="frame r" textLength="344.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:3.50s">                                         </text>
+<text x="712.8" y="389" class="frame r" textLength="84.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:3.50s">○──(zsh)─┘</text>
+<text x="24.0" y="409" class="frame r" textLength="730.8" lengthAdjust="spacingAndGlyphs" style="animation-delay:4.80s">╔═════════════════════════╦════════════════════╦══════════════════════════════════════╗</text>
+<text x="24.0" y="429" class="frame r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:4.86s">║</text>
+<text x="32.4" y="429" class="key r" textLength="210.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:4.86s"> Company                 </text>
+<text x="242.4" y="429" class="frame r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:4.86s">║</text>
+<text x="250.8" y="429" class="key r" textLength="168.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:4.86s"> Role               </text>
+<text x="418.8" y="429" class="frame r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:4.86s">║</text>
+<text x="427.2" y="429" class="key r" textLength="319.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:4.86s"> Focus                                </text>
+<text x="746.4" y="429" class="frame r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:4.86s">║</text>
+<text x="24.0" y="449" class="frame r" textLength="730.8" lengthAdjust="spacingAndGlyphs" style="animation-delay:4.92s">╠═════════════════════════╬════════════════════╬══════════════════════════════════════╣</text>
+<text x="24.0" y="469" class="frame r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:4.98s">║</text>
+<text x="32.4" y="469" class="out r" textLength="210.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:4.98s"> ComuniOS                </text>
+<text x="242.4" y="469" class="frame r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:4.98s">║</text>
+<text x="250.8" y="469" class="out r" textLength="168.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:4.98s"> Founder, CEO &amp; CTO </text>
+<text x="418.8" y="469" class="frame r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:4.98s">║</text>
+<text x="427.2" y="469" class="out r" textLength="319.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:4.98s"> Software for residential communities </text>
+<text x="746.4" y="469" class="frame r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:4.98s">║</text>
+<text x="24.0" y="489" class="frame r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:5.04s">║</text>
+<text x="32.4" y="489" class="out r" textLength="210.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:5.04s"> Karibu                  </text>
+<text x="242.4" y="489" class="frame r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:5.04s">║</text>
+<text x="250.8" y="489" class="out r" textLength="168.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:5.04s"> Fullstack Engineer </text>
+<text x="418.8" y="489" class="frame r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:5.04s">║</text>
+<text x="427.2" y="489" class="out r" textLength="319.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:5.04s"> Scalable web apps and AI products    </text>
+<text x="746.4" y="489" class="frame r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:5.04s">║</text>
+<text x="24.0" y="509" class="frame r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:5.10s">║</text>
+<text x="32.4" y="509" class="out r" textLength="210.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:5.10s"> Portal de Especialistas </text>
+<text x="242.4" y="509" class="frame r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:5.10s">║</text>
+<text x="250.8" y="509" class="out r" textLength="168.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:5.10s"> CTO (previously)   </text>
+<text x="418.8" y="509" class="frame r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:5.10s">║</text>
+<text x="427.2" y="509" class="out r" textLength="319.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:5.10s"> Homeowner and specialist marketplace </text>
+<text x="746.4" y="509" class="frame r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:5.10s">║</text>
+<text x="24.0" y="529" class="frame r" textLength="730.8" lengthAdjust="spacingAndGlyphs" style="animation-delay:5.16s">╚═════════════════════════╩════════════════════╩══════════════════════════════════════╝</text>
+<text x="24.0" y="559" class="frame r" textLength="25.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:5.52s">┌─(</text>
+<text x="49.2" y="559" class="path r" textLength="67.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:5.52s">~/github</text>
+<text x="116.4" y="559" class="frame r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:5.52s">)</text>
+<text x="124.8" y="559" class="frame r" textLength="529.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:5.52s">───────────────────────────────────────────────────────────────</text>
+<text x="654.0" y="559" class="frame r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:5.52s">(</text>
+<text x="662.4" y="559" class="path r" textLength="109.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:5.52s">alex@kanazawa</text>
+<text x="771.6" y="559" class="frame r" textLength="25.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:5.52s">)─┐</text>
+<text x="24.0" y="579" class="frame r" textLength="25.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:5.52s">└─(</text>
+<text x="49.2" y="579" class="muted r" textLength="67.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:5.52s">00:00:04</text>
+<text x="116.4" y="579" class="frame r" textLength="42.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:5.52s">)──○ </text>
+<text x="158.4" y="579" class="cmd r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:5.67s">a</text>
+<text x="166.8" y="579" class="cmd r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:5.71s">l</text>
+<text x="175.2" y="579" class="cmd r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:5.75s">e</text>
+<text x="183.6" y="579" class="cmd r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:5.79s">x</text>
+<text x="200.4" y="579" class="cmd r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:5.87s">-</text>
+<text x="208.8" y="579" class="cmd r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:5.91s">-</text>
+<text x="217.2" y="579" class="cmd r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:5.95s">s</text>
+<text x="225.6" y="579" class="cmd r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:5.99s">t</text>
+<text x="234.0" y="579" class="cmd r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:6.03s">a</text>
+<text x="242.4" y="579" class="cmd r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:6.07s">c</text>
+<text x="250.8" y="579" class="cmd r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:6.11s">k</text>
+<text x="259.2" y="579" class="frame r" textLength="453.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:5.52s">                                                      </text>
+<text x="712.8" y="579" class="frame r" textLength="84.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:5.52s">○──(zsh)─┘</text>
+<text x="24.0" y="599" class="muted r" textLength="58.8" lengthAdjust="spacingAndGlyphs" style="animation-delay:6.30s">lang   </text>
+<text x="82.8" y="599" class="out r" textLength="252.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:6.30s">⚙ TypeScript  ⚙ Python  ⚙ Rust</text>
+<text x="24.0" y="619" class="muted r" textLength="58.8" lengthAdjust="spacingAndGlyphs" style="animation-delay:6.36s">build  </text>
+<text x="82.8" y="619" class="out r" textLength="529.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:6.36s">⚙ React  ⚙ Next.js  ⚙ NestJS  ⚙ FastAPI  ⚙ PostgreSQL  ⚙ Docker</text>
+<text x="24.0" y="639" class="muted r" textLength="58.8" lengthAdjust="spacingAndGlyphs" style="animation-delay:6.42s">ship   </text>
+<text x="82.8" y="639" class="out r" textLength="336.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:6.42s">⚙ Railway  ⚙ Vercel  ⚙ AWS  ⚙ Cloudflare</text>
+<text x="24.0" y="669" class="frame r" textLength="25.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:6.78s">┌─(</text>
+<text x="49.2" y="669" class="path r" textLength="67.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:6.78s">~/github</text>
+<text x="116.4" y="669" class="frame r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:6.78s">)</text>
+<text x="124.8" y="669" class="frame r" textLength="529.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:6.78s">───────────────────────────────────────────────────────────────</text>
+<text x="654.0" y="669" class="frame r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:6.78s">(</text>
+<text x="662.4" y="669" class="path r" textLength="109.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:6.78s">alex@kanazawa</text>
+<text x="771.6" y="669" class="frame r" textLength="25.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:6.78s">)─┐</text>
+<text x="24.0" y="689" class="frame r" textLength="25.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:6.78s">└─(</text>
+<text x="49.2" y="689" class="muted r" textLength="67.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:6.78s">00:00:05</text>
+<text x="116.4" y="689" class="frame r" textLength="42.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:6.78s">)──○ </text>
+<text x="158.4" y="689" class="cmd r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:6.93s">c</text>
+<text x="166.8" y="689" class="cmd r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:6.97s">a</text>
+<text x="175.2" y="689" class="cmd r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:7.01s">t</text>
+<text x="192.0" y="689" class="cmd r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:7.09s">v</text>
+<text x="200.4" y="689" class="cmd r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:7.13s">a</text>
+<text x="208.8" y="689" class="cmd r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:7.17s">l</text>
+<text x="217.2" y="689" class="cmd r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:7.21s">u</text>
+<text x="225.6" y="689" class="cmd r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:7.25s">e</text>
+<text x="234.0" y="689" class="cmd r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:7.29s">s</text>
+<text x="242.4" y="689" class="cmd r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:7.33s">.</text>
+<text x="250.8" y="689" class="cmd r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:7.37s">t</text>
+<text x="259.2" y="689" class="cmd r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:7.41s">x</text>
+<text x="267.6" y="689" class="cmd r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:7.45s">t</text>
+<text x="276.0" y="689" class="frame r" textLength="436.8" lengthAdjust="spacingAndGlyphs" style="animation-delay:6.78s">                                                    </text>
+<text x="712.8" y="689" class="frame r" textLength="84.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:6.78s">○──(zsh)─┘</text>
+<text x="24.0" y="709" class="ok r" textLength="512.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:7.64s">Simple systems. Clean architecture. Shipping useful software.</text>
+<text x="24.0" y="739" class="frame r" textLength="25.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:8.00s">┌─(</text>
+<text x="49.2" y="739" class="path r" textLength="67.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:8.00s">~/github</text>
+<text x="116.4" y="739" class="frame r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:8.00s">)</text>
+<text x="124.8" y="739" class="frame r" textLength="529.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:8.00s">───────────────────────────────────────────────────────────────</text>
+<text x="654.0" y="739" class="frame r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:8.00s">(</text>
+<text x="662.4" y="739" class="path r" textLength="109.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:8.00s">alex@kanazawa</text>
+<text x="771.6" y="739" class="frame r" textLength="25.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:8.00s">)─┐</text>
+<text x="24.0" y="759" class="frame r" textLength="25.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:8.00s">└─(</text>
+<text x="49.2" y="759" class="muted r" textLength="67.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:8.00s">00:00:06</text>
+<text x="116.4" y="759" class="frame r" textLength="42.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:8.00s">)──○ </text>
+<text x="158.4" y="759" class="cmd r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:8.15s">g</text>
+<text x="166.8" y="759" class="cmd r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:8.19s">r</text>
+<text x="175.2" y="759" class="cmd r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:8.23s">e</text>
+<text x="183.6" y="759" class="cmd r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:8.27s">p</text>
+<text x="200.4" y="759" class="cmd r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:8.35s">-</text>
+<text x="208.8" y="759" class="cmd r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:8.39s">i</text>
+<text x="225.6" y="759" class="cmd r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:8.47s">c</text>
+<text x="234.0" y="759" class="cmd r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:8.51s">o</text>
+<text x="242.4" y="759" class="cmd r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:8.55s">n</text>
+<text x="250.8" y="759" class="cmd r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:8.59s">t</text>
+<text x="259.2" y="759" class="cmd r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:8.63s">a</text>
+<text x="267.6" y="759" class="cmd r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:8.67s">c</text>
+<text x="276.0" y="759" class="cmd r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:8.71s">t</text>
+<text x="292.8" y="759" class="cmd r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:8.79s">i</text>
+<text x="301.2" y="759" class="cmd r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:8.83s">n</text>
+<text x="309.6" y="759" class="cmd r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:8.87s">f</text>
+<text x="318.0" y="759" class="cmd r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:8.91s">o</text>
+<text x="326.4" y="759" class="cmd r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:8.95s">.</text>
+<text x="334.8" y="759" class="cmd r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:8.99s">t</text>
+<text x="343.2" y="759" class="cmd r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:9.03s">x</text>
+<text x="351.6" y="759" class="cmd r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:9.07s">t</text>
+<text x="360.0" y="759" class="frame r" textLength="352.8" lengthAdjust="spacingAndGlyphs" style="animation-delay:8.00s">                                          </text>
+<text x="712.8" y="759" class="frame r" textLength="84.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:8.00s">○──(zsh)─┘</text>
+<text x="24.0" y="779" class="muted r" textLength="33.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:9.26s">web </text>
+<text x="57.6" y="779" class="out r" textLength="142.8" lengthAdjust="spacingAndGlyphs" style="animation-delay:9.26s">alexelgueta.me   </text>
+<text x="200.4" y="779" class="muted r" textLength="16.8" lengthAdjust="spacingAndGlyphs" style="animation-delay:9.26s">x </text>
+<text x="217.2" y="779" class="out r" textLength="151.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:9.26s">@AlexElguetaDev   </text>
+<text x="368.4" y="779" class="muted r" textLength="25.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:9.26s">in </text>
+<text x="393.6" y="779" class="out r" textLength="235.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:9.26s">linkedin.com/in/alexelguetar</text>
+<text x="24.0" y="809" class="frame r" textLength="25.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:9.62s">┌─(</text>
+<text x="49.2" y="809" class="path r" textLength="67.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:9.62s">~/github</text>
+<text x="116.4" y="809" class="frame r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:9.62s">)</text>
+<text x="124.8" y="809" class="frame r" textLength="529.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:9.62s">───────────────────────────────────────────────────────────────</text>
+<text x="654.0" y="809" class="frame r" textLength="8.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:9.62s">(</text>
+<text x="662.4" y="809" class="path r" textLength="109.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:9.62s">alex@kanazawa</text>
+<text x="771.6" y="809" class="frame r" textLength="25.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:9.62s">)─┐</text>
+<text x="24.0" y="829" class="frame r" textLength="25.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:9.62s">└─(</text>
+<text x="49.2" y="829" class="muted r" textLength="67.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:9.62s">00:00:07</text>
+<text x="116.4" y="829" class="frame r" textLength="42.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:9.62s">)──○ </text>
+<rect x="158.4" y="816" width="8.4" height="16" class="cursor" style="animation:show .01s 9.62s both, blink 1s step-end 9.62s infinite"/>
+</svg>

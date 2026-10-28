@@ -1,12 +1,12 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=transparent&height=140&text=Alex%20Elgueta&fontSize=68&fontColor=78a7ff&fontAlignY=42&desc=AI%20Software%20Engineer%20%C2%B7%20Indie%20Builder&descSize=18&descColor=aaaaaa&descAlignY=78" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=transparent&height=140&text=Alex%20Elgueta&fontSize=68&fontColor=1748c7&fontAlignY=42&desc=AI%20Software%20Engineer%20%C2%B7%20Indie%20Builder&descSize=18&descColor=666666&descAlignY=78" />
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=140&text=Alex%20Elgueta&fontSize=68&fontColor=1748c7&fontAlignY=42&desc=AI%20Software%20Engineer%20%C2%B7%20Indie%20Builder&descSize=18&descColor=666666&descAlignY=78" alt="Alex Elgueta, AI Software Engineer and Indie Builder" />
-</picture>
-
-> **Ship something people actually use.**
+<a href="https://github.com/kanazawa-dev">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kanazawa-dev/kanazawa-dev/main/assets/terminal/en-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kanazawa-dev/kanazawa-dev/main/assets/terminal/en-light.svg" />
+    <img width="100%" src="https://raw.githubusercontent.com/kanazawa-dev/kanazawa-dev/main/assets/terminal/en-light.svg" alt="Animated terminal introducing Alex Elgueta: AI Software Engineer and Indie Builder from Los Ángeles, Chile. Founder, CEO and CTO of ComuniOS; builds Voysse and helps build Titvo at Karibu." />
+  </picture>
+</a>
 
 <p>
   <a href="https://comunios.cl">
@@ -53,10 +53,6 @@
 </div>
 
 ---
-
-## Hi, I'm Alex
-
-I'm a software engineer and product builder based in **Los Ángeles, Chile**. I build products end to end, from architecture and backend to interfaces and the infrastructure that ships them, and lately most of them put **AI to work on real data**.
 
 ## Main focus · [ComuniOS](https://comunios.cl)
 
@@ -110,26 +106,6 @@ I'm a software engineer and product builder based in **Los Ángeles, Chile**. I 
 - **[Titvo](https://titvo.com):** AI-powered code security review. I help build it at Karibu.
 
 <sub>Also cooking: **Mushu** (AI-assisted food tracking) and **Violet** (simpler personal finance).</sub>
-
-## Stack
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,py,rust,react,nextjs,nestjs,fastapi,postgres,docker,aws,vercel,cloudflare&perline=12&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,py,rust,react,nextjs,nestjs,fastapi,postgres,docker,aws,vercel,cloudflare&perline=12&theme=light" />
-  <img src="https://skillicons.dev/icons?i=ts,py,rust,react,nextjs,nestjs,fastapi,postgres,docker,aws,vercel,cloudflare&perline=12&theme=light" alt="TypeScript, Python, Rust, React, Next.js, NestJS, FastAPI, PostgreSQL, Docker, AWS, Vercel, Cloudflare" />
-</picture>
-</p>
-
-<p align="center"><sub>Also shipping on Railway.</sub></p>
-
-## Experience
-
-- **ComuniOS · Founder, CEO & CTO:** product and technology for residential communities.
-- **Karibu · Fullstack Engineer:** scalable web applications and AI-powered products.
-- **Previously, Portal de Especialistas · CTO:** engineering, architecture, and product for a marketplace connecting homeowners with specialists.
-
-I value simple systems, clean architecture, and shipping useful software.
 
 ## GitHub activity
 
